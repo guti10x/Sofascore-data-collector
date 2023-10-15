@@ -1,0 +1,2018 @@
+{
+    "11137259": {
+        "incidents": [
+            {
+                "text": "FT",
+                "homeScore": 2,
+                "awayScore": 0,
+                "isLive": false,
+                "time": 90,
+                "addedTime": 999,
+                "incidentType": "period"
+            },
+            {
+                "length": 5,
+                "time": 90,
+                "addedTime": 0,
+                "incidentType": "injuryTime"
+            },
+            {
+                "player": {
+                    "name": "Mateo Kova\u010di\u0107",
+                    "slug": "mateo-kovacic",
+                    "shortName": "M. Kova\u010di\u0107",
+                    "position": "M",
+                    "userCount": 15876,
+                    "id": 136710
+                },
+                "playerName": "Mateo Kova\u010di\u0107",
+                "reason": "Argument",
+                "rescinded": false,
+                "id": 120704366,
+                "time": 87,
+                "isHome": false,
+                "incidentClass": "yellow",
+                "reversedPeriodTime": 4,
+                "incidentType": "card"
+            },
+            {
+                "player": {
+                    "name": "Daniel Carvajal",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "daniel-carvajal",
+                    "shortName": "D. Carvajal",
+                    "position": "D",
+                    "userCount": 13202,
+                    "id": 138572
+                },
+                "playerName": "Daniel Carvajal",
+                "reason": "Foul",
+                "rescinded": false,
+                "id": 120704359,
+                "time": 87,
+                "isHome": true,
+                "incidentClass": "yellow",
+                "reversedPeriodTime": 4,
+                "incidentType": "card"
+            },
+            {
+                "playerIn": {
+                    "name": "Aur\u00e9lien Tchouam\u00e9ni",
+                    "slug": "aurelien-tchouameni",
+                    "shortName": "A. Tchouam\u00e9ni",
+                    "position": "M",
+                    "userCount": 23659,
+                    "id": 859025
+                },
+                "playerOut": {
+                    "name": "Toni Kroos",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "toni-kroos",
+                    "shortName": "T. Kroos",
+                    "position": "M",
+                    "userCount": 47784,
+                    "id": 26502
+                },
+                "id": 121689929,
+                "time": 84,
+                "isHome": true,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 7,
+                "incidentType": "substitution"
+            },
+            {
+                "player": {
+                    "name": "\u00c9der Milit\u00e3o",
+                    "slug": "eder-militao",
+                    "shortName": "\u00c9. Milit\u00e3o",
+                    "position": "D",
+                    "userCount": 17599,
+                    "id": 822519
+                },
+                "playerName": "\u00c9der Milit\u00e3o",
+                "reason": "Foul",
+                "rescinded": false,
+                "id": 120704358,
+                "time": 83,
+                "isHome": true,
+                "incidentClass": "yellow",
+                "reversedPeriodTime": 8,
+                "incidentType": "card"
+            },
+            {
+                "playerIn": {
+                    "name": "Dani Ceballos",
+                    "slug": "dani-ceballos",
+                    "shortName": "D. Ceballos",
+                    "position": "M",
+                    "userCount": 8442,
+                    "id": 547838
+                },
+                "playerOut": {
+                    "name": "Luka Modri\u0107",
+                    "slug": "luka-modric",
+                    "shortName": "L. Modri\u0107",
+                    "position": "M",
+                    "userCount": 92056,
+                    "id": 15466
+                },
+                "id": 121689925,
+                "time": 81,
+                "isHome": true,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 10,
+                "incidentType": "substitution"
+            },
+            {
+                "playerIn": {
+                    "name": "Mason Mount",
+                    "slug": "mason-mount",
+                    "shortName": "M. Mount",
+                    "position": "M",
+                    "userCount": 35808,
+                    "id": 836694
+                },
+                "playerOut": {
+                    "name": "Thiago Silva",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "thiago-silva",
+                    "shortName": "T. Silva",
+                    "position": "D",
+                    "userCount": 30146,
+                    "id": 33541
+                },
+                "id": 121689914,
+                "time": 76,
+                "isHome": false,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 15,
+                "incidentType": "substitution"
+            },
+            {
+                "playerIn": {
+                    "name": "Conor Gallagher",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "conor-gallagher",
+                    "shortName": "C. Gallagher",
+                    "position": "M",
+                    "userCount": 6994,
+                    "id": 904970
+                },
+                "playerOut": {
+                    "name": "N'Golo Kant\u00e9",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "ngolo-kante",
+                    "shortName": "N. Kant\u00e9",
+                    "position": "M",
+                    "userCount": 38093,
+                    "id": 234148
+                },
+                "id": 121689913,
+                "time": 75,
+                "isHome": false,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 16,
+                "incidentType": "substitution"
+            },
+            {
+                "homeScore": 2,
+                "awayScore": 0,
+                "player": {
+                    "name": "Marco Asensio",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "marco-asensio",
+                    "shortName": "M. Asensio",
+                    "position": "F",
+                    "userCount": 18903,
+                    "id": 361004
+                },
+                "assist1": {
+                    "name": "Vin\u00edcius J\u00fanior",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "vinicius-junior",
+                    "shortName": "Vin\u00edcius",
+                    "position": "F",
+                    "userCount": 160346,
+                    "id": 868812
+                },
+                "id": 168655762,
+                "time": 74,
+                "isHome": true,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 17,
+                "incidentType": "goal"
+            },
+            {
+                "playerIn": {
+                    "name": "Antonio R\u00fcdiger",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "antonio-rudiger",
+                    "shortName": "A. R\u00fcdiger",
+                    "position": "D",
+                    "userCount": 15063,
+                    "id": 142622
+                },
+                "playerOut": {
+                    "name": "Eduardo Camavinga",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "camavinga-eduardo",
+                    "shortName": "E. Camavinga",
+                    "position": "M",
+                    "userCount": 29594,
+                    "id": 973887
+                },
+                "id": 121689910,
+                "time": 71,
+                "isHome": true,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 20,
+                "incidentType": "substitution"
+            },
+            {
+                "playerIn": {
+                    "name": "Marco Asensio",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "marco-asensio",
+                    "shortName": "M. Asensio",
+                    "position": "F",
+                    "userCount": 18903,
+                    "id": 361004
+                },
+                "playerOut": {
+                    "name": "Rodrygo",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "rodrygo",
+                    "shortName": "Rodrygo",
+                    "position": "F",
+                    "userCount": 67778,
+                    "id": 910536
+                },
+                "id": 121689909,
+                "time": 71,
+                "isHome": true,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 20,
+                "incidentType": "substitution"
+            },
+            {
+                "playerIn": {
+                    "name": "Trevoh Chalobah",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "trevoh-chalobah",
+                    "shortName": "T. Chalobah",
+                    "position": "D",
+                    "userCount": 4449,
+                    "id": 826134
+                },
+                "playerOut": {
+                    "name": "Jo\u00e3o F\u00e9lix",
+                    "slug": "joao-felix",
+                    "shortName": "J. F\u00e9lix",
+                    "position": "F",
+                    "userCount": 52482,
+                    "id": 851671
+                },
+                "id": 121689900,
+                "time": 65,
+                "isHome": false,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 26,
+                "incidentType": "substitution"
+            },
+            {
+                "playerIn": {
+                    "name": "Kai Havertz",
+                    "slug": "kai-havertz",
+                    "shortName": "K. Havertz",
+                    "position": "F",
+                    "userCount": 37962,
+                    "id": 836705
+                },
+                "playerOut": {
+                    "name": "Raheem Sterling",
+                    "slug": "raheem-sterling",
+                    "shortName": "R. Sterling",
+                    "position": "F",
+                    "userCount": 28052,
+                    "id": 138534
+                },
+                "id": 121689899,
+                "time": 65,
+                "isHome": false,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 26,
+                "incidentType": "substitution"
+            },
+            {
+                "player": {
+                    "name": "Ben Chilwell",
+                    "slug": "ben-chilwell",
+                    "shortName": "B. Chilwell",
+                    "position": "M",
+                    "userCount": 8774,
+                    "id": 802695
+                },
+                "playerName": "Ben Chilwell",
+                "reason": "Professional foul last man",
+                "rescinded": false,
+                "id": 120704334,
+                "time": 59,
+                "isHome": false,
+                "incidentClass": "red",
+                "reversedPeriodTime": 32,
+                "incidentType": "card"
+            },
+            {
+                "playerIn": {
+                    "name": "Marc Cucurella",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "marc-cucurella",
+                    "shortName": "M. Cucurella",
+                    "position": "D",
+                    "userCount": 6065,
+                    "id": 794939
+                },
+                "playerOut": {
+                    "name": "Kalidou Koulibaly",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "kalidou-koulibaly",
+                    "shortName": "K. Koulibaly",
+                    "position": "D",
+                    "userCount": 11974,
+                    "id": 126071
+                },
+                "injury": true,
+                "id": 121689886,
+                "time": 55,
+                "isHome": false,
+                "incidentClass": "injury",
+                "reversedPeriodTime": 36,
+                "incidentType": "substitution"
+            },
+            {
+                "text": "HT",
+                "homeScore": 1,
+                "awayScore": 0,
+                "isLive": false,
+                "time": 45,
+                "addedTime": 999,
+                "incidentType": "period"
+            },
+            {
+                "homeScore": 1,
+                "awayScore": 0,
+                "player": {
+                    "name": "Karim Benzema",
+                    "slug": "karim-benzema",
+                    "shortName": "K. Benzema",
+                    "position": "F",
+                    "userCount": 161067,
+                    "id": 3306
+                },
+                "id": 168655065,
+                "time": 21,
+                "isHome": true,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 25,
+                "incidentType": "goal"
+            },
+            {
+                "player": {
+                    "name": "Eduardo Camavinga",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "camavinga-eduardo",
+                    "shortName": "E. Camavinga",
+                    "position": "M",
+                    "userCount": 29594,
+                    "id": 973887
+                },
+                "playerName": "Eduardo Camavinga",
+                "reason": "Foul",
+                "rescinded": false,
+                "id": 120704255,
+                "time": 7,
+                "isHome": true,
+                "incidentClass": "yellow",
+                "reversedPeriodTime": 39,
+                "incidentType": "card"
+            },
+            {
+                "player": {
+                    "name": "Wesley Fofana",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "wesley-fofana",
+                    "shortName": "W. Fofana",
+                    "position": "D",
+                    "userCount": 5126,
+                    "id": 923894
+                },
+                "playerName": "Wesley Fofana",
+                "reason": "Foul",
+                "rescinded": false,
+                "id": 120704251,
+                "time": 5,
+                "isHome": false,
+                "incidentClass": "yellow",
+                "reversedPeriodTime": 41,
+                "incidentType": "card"
+            }
+        ]
+    },
+    "10408426": {
+        "incidents": [
+            {
+                "text": "FT",
+                "homeScore": 0,
+                "awayScore": 2,
+                "isLive": false,
+                "time": 90,
+                "addedTime": 999,
+                "incidentType": "period"
+            },
+            {
+                "length": 4,
+                "time": 90,
+                "addedTime": 0,
+                "incidentType": "injuryTime"
+            },
+            {
+                "playerIn": {
+                    "name": "Luka Modri\u0107",
+                    "slug": "luka-modric",
+                    "shortName": "L. Modri\u0107",
+                    "position": "M",
+                    "userCount": 92056,
+                    "id": 15466
+                },
+                "playerOut": {
+                    "name": "Federico Valverde",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "federico-valverde",
+                    "shortName": "F. Valverde",
+                    "position": "M",
+                    "userCount": 43882,
+                    "id": 831808
+                },
+                "id": 121698286,
+                "time": 80,
+                "isHome": false,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 11,
+                "incidentType": "substitution"
+            },
+            {
+                "playerIn": {
+                    "name": "Eden Hazard",
+                    "slug": "eden-hazard",
+                    "shortName": "E. Hazard",
+                    "position": "F",
+                    "userCount": 77186,
+                    "id": 27583
+                },
+                "playerOut": {
+                    "name": "Rodrygo",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "rodrygo",
+                    "shortName": "Rodrygo",
+                    "position": "F",
+                    "userCount": 67778,
+                    "id": 910536
+                },
+                "id": 121698285,
+                "time": 80,
+                "isHome": false,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 11,
+                "incidentType": "substitution"
+            },
+            {
+                "playerIn": {
+                    "name": "\u00c1lvaro Negredo",
+                    "slug": "alvaro-negredo",
+                    "shortName": "\u00c1. Negredo",
+                    "position": "F",
+                    "userCount": 533,
+                    "id": 27838
+                },
+                "playerOut": {
+                    "name": "Chris Ramos",
+                    "slug": "chris-ramos",
+                    "shortName": "C. Ramos",
+                    "position": "F",
+                    "userCount": 287,
+                    "id": 914819
+                },
+                "id": 121698268,
+                "time": 78,
+                "isHome": true,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 13,
+                "incidentType": "substitution"
+            },
+            {
+                "homeScore": 0,
+                "awayScore": 2,
+                "player": {
+                    "name": "Marco Asensio",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "marco-asensio",
+                    "shortName": "M. Asensio",
+                    "position": "F",
+                    "userCount": 18903,
+                    "id": 361004
+                },
+                "assist1": {
+                    "name": "Federico Valverde",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "federico-valverde",
+                    "shortName": "F. Valverde",
+                    "position": "M",
+                    "userCount": 43882,
+                    "id": 831808
+                },
+                "id": 168674171,
+                "time": 76,
+                "isHome": false,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 15,
+                "incidentType": "goal"
+            },
+            {
+                "homeScore": 0,
+                "awayScore": 1,
+                "player": {
+                    "name": "Nacho Fern\u00e1ndez",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "nacho-fernandez",
+                    "shortName": "N. Fern\u00e1ndez",
+                    "position": "D",
+                    "userCount": 8402,
+                    "id": 69404
+                },
+                "assist1": {
+                    "name": "Aur\u00e9lien Tchouam\u00e9ni",
+                    "slug": "aurelien-tchouameni",
+                    "shortName": "A. Tchouam\u00e9ni",
+                    "position": "M",
+                    "userCount": 23659,
+                    "id": 859025
+                },
+                "id": 168674155,
+                "time": 72,
+                "isHome": false,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 19,
+                "incidentType": "goal"
+            },
+            {
+                "playerIn": {
+                    "name": "\u00c1lex Fern\u00e1ndez",
+                    "slug": "alex-fernandez",
+                    "shortName": "\u00c1. Fern\u00e1ndez",
+                    "position": "M",
+                    "userCount": 241,
+                    "id": 148588
+                },
+                "playerOut": {
+                    "name": "Fede San Emeterio",
+                    "slug": "fede-san-emeterio",
+                    "shortName": "F. S. E. Diaz",
+                    "position": "M",
+                    "userCount": 151,
+                    "id": 376382
+                },
+                "id": 121698220,
+                "time": 70,
+                "isHome": true,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 21,
+                "incidentType": "substitution"
+            },
+            {
+                "playerIn": {
+                    "name": "Roger Mart\u00ed",
+                    "slug": "roger-marti",
+                    "shortName": "R. Mart\u00ed",
+                    "position": "F",
+                    "userCount": 428,
+                    "id": 212074
+                },
+                "playerOut": {
+                    "name": "Sergi Guardiola",
+                    "slug": "sergi-guardiola",
+                    "shortName": "S. Guardiola",
+                    "position": "F",
+                    "userCount": 311,
+                    "id": 141945
+                },
+                "id": 121698221,
+                "time": 70,
+                "isHome": true,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 21,
+                "incidentType": "substitution"
+            },
+            {
+                "playerIn": {
+                    "name": "Iv\u00e1n Alejo",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "ivan-alejo",
+                    "shortName": "I. Alejo",
+                    "position": "M",
+                    "userCount": 159,
+                    "id": 352486
+                },
+                "playerOut": {
+                    "name": "Rub\u00e9n Sobrino",
+                    "slug": "ruben-sobrino",
+                    "shortName": "R. Sobrino",
+                    "position": "M",
+                    "userCount": 237,
+                    "id": 329563
+                },
+                "id": 121698219,
+                "time": 70,
+                "isHome": true,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 21,
+                "incidentType": "substitution"
+            },
+            {
+                "playerIn": {
+                    "name": "Eduardo Camavinga",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "camavinga-eduardo",
+                    "shortName": "E. Camavinga",
+                    "position": "M",
+                    "userCount": 29594,
+                    "id": 973887
+                },
+                "playerOut": {
+                    "name": "Lucas V\u00e1zquez",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "lucas-vazquez",
+                    "shortName": "L. V\u00e1zquez",
+                    "position": "D",
+                    "userCount": 8438,
+                    "id": 255239
+                },
+                "id": 121698206,
+                "time": 67,
+                "isHome": false,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 24,
+                "incidentType": "substitution"
+            },
+            {
+                "playerIn": {
+                    "name": "Jorge Mer\u00e9",
+                    "slug": "jorge-mere",
+                    "shortName": "J. Mer\u00e9",
+                    "position": "D",
+                    "userCount": 198,
+                    "id": 355046
+                },
+                "playerOut": {
+                    "name": "Ra\u00fal Parra",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "raul-parra",
+                    "shortName": "R. Parra",
+                    "position": "D",
+                    "userCount": 32,
+                    "id": 1069725
+                },
+                "id": 121698133,
+                "time": 55,
+                "isHome": true,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 36,
+                "incidentType": "substitution"
+            },
+            {
+                "text": "HT",
+                "homeScore": 0,
+                "awayScore": 0,
+                "isLive": false,
+                "time": 45,
+                "addedTime": 999,
+                "incidentType": "period"
+            },
+            {
+                "length": 1,
+                "time": 45,
+                "addedTime": 0,
+                "incidentType": "injuryTime"
+            },
+            {
+                "player": {
+                    "name": "Rub\u00e9n Alcaraz",
+                    "slug": "ruben-alcaraz",
+                    "shortName": "R. Alcaraz",
+                    "position": "M",
+                    "userCount": 361,
+                    "id": 259339
+                },
+                "playerName": "Rub\u00e9n Alcaraz",
+                "reason": "Foul",
+                "rescinded": false,
+                "id": 120709049,
+                "time": 29,
+                "isHome": true,
+                "incidentClass": "yellow",
+                "reversedPeriodTime": 17,
+                "incidentType": "card"
+            }
+        ]
+    },
+    "11137261": {
+        "incidents": [
+            {
+                "text": "FT",
+                "homeScore": 0,
+                "awayScore": 2,
+                "isLive": false,
+                "time": 90,
+                "addedTime": 999,
+                "incidentType": "period"
+            },
+            {
+                "length": 3,
+                "time": 90,
+                "addedTime": 0,
+                "incidentType": "injuryTime"
+            },
+            {
+                "player": {
+                    "name": "Mykhaylo Mudryk",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "mykhaylo-mudryk",
+                    "shortName": "M. Mudryk",
+                    "position": "M",
+                    "userCount": 24705,
+                    "id": 958966
+                },
+                "playerName": "Mykhaylo Mudryk",
+                "reason": "Foul",
+                "rescinded": false,
+                "id": 120721603,
+                "time": 89,
+                "isHome": true,
+                "incidentClass": "yellow",
+                "reversedPeriodTime": 2,
+                "incidentType": "card"
+            },
+            {
+                "playerIn": {
+                    "name": "Nacho Fern\u00e1ndez",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "nacho-fernandez",
+                    "shortName": "N. Fern\u00e1ndez",
+                    "position": "D",
+                    "userCount": 8402,
+                    "id": 69404
+                },
+                "playerOut": {
+                    "name": "Daniel Carvajal",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "daniel-carvajal",
+                    "shortName": "D. Carvajal",
+                    "position": "D",
+                    "userCount": 13202,
+                    "id": 138572
+                },
+                "id": 121712690,
+                "time": 81,
+                "isHome": false,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 10,
+                "incidentType": "substitution"
+            },
+            {
+                "playerIn": {
+                    "name": "Marco Asensio",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "marco-asensio",
+                    "shortName": "M. Asensio",
+                    "position": "F",
+                    "userCount": 18903,
+                    "id": 361004
+                },
+                "playerOut": {
+                    "name": "Rodrygo",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "rodrygo",
+                    "shortName": "Rodrygo",
+                    "position": "F",
+                    "userCount": 67778,
+                    "id": 910536
+                },
+                "id": 121712689,
+                "time": 81,
+                "isHome": false,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 10,
+                "incidentType": "substitution"
+            },
+            {
+                "homeScore": 0,
+                "awayScore": 2,
+                "player": {
+                    "name": "Rodrygo",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "rodrygo",
+                    "shortName": "Rodrygo",
+                    "position": "F",
+                    "userCount": 67778,
+                    "id": 910536
+                },
+                "assist1": {
+                    "name": "Federico Valverde",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "federico-valverde",
+                    "shortName": "F. Valverde",
+                    "position": "M",
+                    "userCount": 43882,
+                    "id": 831808
+                },
+                "id": 168696152,
+                "time": 80,
+                "isHome": false,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 11,
+                "incidentType": "goal"
+            },
+            {
+                "playerIn": {
+                    "name": "Mason Mount",
+                    "slug": "mason-mount",
+                    "shortName": "M. Mount",
+                    "position": "M",
+                    "userCount": 35808,
+                    "id": 836694
+                },
+                "playerOut": {
+                    "name": "Kai Havertz",
+                    "slug": "kai-havertz",
+                    "shortName": "K. Havertz",
+                    "position": "F",
+                    "userCount": 37962,
+                    "id": 836705
+                },
+                "id": 121712680,
+                "time": 77,
+                "isHome": true,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 14,
+                "incidentType": "substitution"
+            },
+            {
+                "playerIn": {
+                    "name": "Dani Ceballos",
+                    "slug": "dani-ceballos",
+                    "shortName": "D. Ceballos",
+                    "position": "M",
+                    "userCount": 8442,
+                    "id": 547838
+                },
+                "playerOut": {
+                    "name": "Toni Kroos",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "toni-kroos",
+                    "shortName": "T. Kroos",
+                    "position": "M",
+                    "userCount": 47784,
+                    "id": 26502
+                },
+                "id": 121712681,
+                "time": 76,
+                "isHome": false,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 15,
+                "incidentType": "substitution"
+            },
+            {
+                "playerIn": {
+                    "name": "Aur\u00e9lien Tchouam\u00e9ni",
+                    "slug": "aurelien-tchouameni",
+                    "shortName": "A. Tchouam\u00e9ni",
+                    "position": "M",
+                    "userCount": 23659,
+                    "id": 859025
+                },
+                "playerOut": {
+                    "name": "Karim Benzema",
+                    "slug": "karim-benzema",
+                    "shortName": "K. Benzema",
+                    "position": "F",
+                    "userCount": 161067,
+                    "id": 3306
+                },
+                "id": 121712635,
+                "time": 71,
+                "isHome": false,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 20,
+                "incidentType": "substitution"
+            },
+            {
+                "playerIn": {
+                    "name": "Mykhaylo Mudryk",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "mykhaylo-mudryk",
+                    "shortName": "M. Mudryk",
+                    "position": "M",
+                    "userCount": 24705,
+                    "id": 958966
+                },
+                "playerOut": {
+                    "name": "Marc Cucurella",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "marc-cucurella",
+                    "shortName": "M. Cucurella",
+                    "position": "D",
+                    "userCount": 6065,
+                    "id": 794939
+                },
+                "id": 121712613,
+                "time": 68,
+                "isHome": true,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 23,
+                "incidentType": "substitution"
+            },
+            {
+                "playerIn": {
+                    "name": "Raheem Sterling",
+                    "slug": "raheem-sterling",
+                    "shortName": "R. Sterling",
+                    "position": "F",
+                    "userCount": 28052,
+                    "id": 138534
+                },
+                "playerOut": {
+                    "name": "Enzo Fern\u00e1ndez",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "enzo-fernandez",
+                    "shortName": "E. Fern\u00e1ndez",
+                    "position": "M",
+                    "userCount": 48128,
+                    "id": 974505
+                },
+                "id": 121712612,
+                "time": 67,
+                "isHome": true,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 24,
+                "incidentType": "substitution"
+            },
+            {
+                "playerIn": {
+                    "name": "Jo\u00e3o F\u00e9lix",
+                    "slug": "joao-felix",
+                    "shortName": "J. F\u00e9lix",
+                    "position": "F",
+                    "userCount": 52482,
+                    "id": 851671
+                },
+                "playerOut": {
+                    "name": "Conor Gallagher",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "conor-gallagher",
+                    "shortName": "C. Gallagher",
+                    "position": "M",
+                    "userCount": 6994,
+                    "id": 904970
+                },
+                "id": 121712611,
+                "time": 67,
+                "isHome": true,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 24,
+                "incidentType": "substitution"
+            },
+            {
+                "homeScore": 0,
+                "awayScore": 1,
+                "player": {
+                    "name": "Rodrygo",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "rodrygo",
+                    "shortName": "Rodrygo",
+                    "position": "F",
+                    "userCount": 67778,
+                    "id": 910536
+                },
+                "assist1": {
+                    "name": "Vin\u00edcius J\u00fanior",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "vinicius-junior",
+                    "shortName": "Vin\u00edcius",
+                    "position": "F",
+                    "userCount": 160346,
+                    "id": 868812
+                },
+                "id": 168696084,
+                "time": 58,
+                "isHome": false,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 33,
+                "incidentType": "goal"
+            },
+            {
+                "player": {
+                    "name": "Reece James",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "reece-james",
+                    "shortName": "R. James",
+                    "position": "M",
+                    "userCount": 16648,
+                    "id": 885908
+                },
+                "playerName": "Reece James",
+                "reason": "Foul",
+                "rescinded": false,
+                "id": 120721545,
+                "time": 50,
+                "isHome": true,
+                "incidentClass": "yellow",
+                "reversedPeriodTime": 41,
+                "incidentType": "card"
+            },
+            {
+                "playerIn": {
+                    "name": "Antonio R\u00fcdiger",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "antonio-rudiger",
+                    "shortName": "A. R\u00fcdiger",
+                    "position": "D",
+                    "userCount": 15063,
+                    "id": 142622
+                },
+                "playerOut": {
+                    "name": "David Alaba",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "david-alaba",
+                    "shortName": "D. Alaba",
+                    "position": "D",
+                    "userCount": 17591,
+                    "id": 66492
+                },
+                "id": 121712448,
+                "time": 46,
+                "isHome": false,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 45,
+                "incidentType": "substitution"
+            },
+            {
+                "text": "HT",
+                "homeScore": 0,
+                "awayScore": 0,
+                "isLive": false,
+                "time": 45,
+                "addedTime": 999,
+                "incidentType": "period"
+            },
+            {
+                "length": 2,
+                "time": 45,
+                "addedTime": 0,
+                "incidentType": "injuryTime"
+            },
+            {
+                "player": {
+                    "name": "Marc Cucurella",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "marc-cucurella",
+                    "shortName": "M. Cucurella",
+                    "position": "D",
+                    "userCount": 6065,
+                    "id": 794939
+                },
+                "playerName": "Marc Cucurella",
+                "reason": "Foul",
+                "rescinded": false,
+                "id": 120721456,
+                "time": 34,
+                "isHome": true,
+                "incidentClass": "yellow",
+                "reversedPeriodTime": 12,
+                "incidentType": "card"
+            },
+            {
+                "player": {
+                    "name": "\u00c9der Milit\u00e3o",
+                    "slug": "eder-militao",
+                    "shortName": "\u00c9. Milit\u00e3o",
+                    "position": "D",
+                    "userCount": 17599,
+                    "id": 822519
+                },
+                "playerName": "\u00c9der Milit\u00e3o",
+                "reason": "Foul",
+                "rescinded": false,
+                "id": 120721419,
+                "time": 22,
+                "isHome": false,
+                "incidentClass": "yellow",
+                "reversedPeriodTime": 24,
+                "incidentType": "card"
+            }
+        ]
+    },
+    "10408427": {
+        "incidents": [
+            {
+                "text": "FT",
+                "homeScore": 2,
+                "awayScore": 0,
+                "isLive": false,
+                "time": 90,
+                "addedTime": 999,
+                "incidentType": "period"
+            },
+            {
+                "length": 5,
+                "time": 90,
+                "addedTime": 0,
+                "incidentType": "injuryTime"
+            },
+            {
+                "playerIn": {
+                    "name": "Luka Modri\u0107",
+                    "slug": "luka-modric",
+                    "shortName": "L. Modri\u0107",
+                    "position": "M",
+                    "userCount": 92056,
+                    "id": 15466
+                },
+                "playerOut": {
+                    "name": "Dani Ceballos",
+                    "slug": "dani-ceballos",
+                    "shortName": "D. Ceballos",
+                    "position": "M",
+                    "userCount": 8442,
+                    "id": 547838
+                },
+                "id": 121723353,
+                "time": 81,
+                "isHome": true,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 10,
+                "incidentType": "substitution"
+            },
+            {
+                "playerIn": {
+                    "name": "Rodrygo",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "rodrygo",
+                    "shortName": "Rodrygo",
+                    "position": "F",
+                    "userCount": 67778,
+                    "id": 910536
+                },
+                "playerOut": {
+                    "name": "Vin\u00edcius J\u00fanior",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "vinicius-junior",
+                    "shortName": "Vin\u00edcius",
+                    "position": "F",
+                    "userCount": 160346,
+                    "id": 868812
+                },
+                "id": 121723352,
+                "time": 81,
+                "isHome": true,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 10,
+                "incidentType": "substitution"
+            },
+            {
+                "playerIn": {
+                    "name": "Fernando Medrano",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "fernando-medrano",
+                    "shortName": "F. Medrano",
+                    "position": "D",
+                    "userCount": 35,
+                    "id": 912980
+                },
+                "playerOut": {
+                    "name": "Kevin V\u00e1zquez",
+                    "slug": "kevin-vazquez",
+                    "shortName": "K. V\u00e1zquez",
+                    "position": "D",
+                    "userCount": 80,
+                    "id": 795257
+                },
+                "id": 121723326,
+                "time": 78,
+                "isHome": false,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 13,
+                "incidentType": "substitution"
+            },
+            {
+                "playerIn": {
+                    "name": "Lucas V\u00e1zquez",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "lucas-vazquez",
+                    "shortName": "L. V\u00e1zquez",
+                    "position": "D",
+                    "userCount": 8438,
+                    "id": 255239
+                },
+                "playerOut": {
+                    "name": "Marco Asensio",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "marco-asensio",
+                    "shortName": "M. Asensio",
+                    "position": "F",
+                    "userCount": 18903,
+                    "id": 361004
+                },
+                "id": 121723301,
+                "time": 76,
+                "isHome": true,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 15,
+                "incidentType": "substitution"
+            },
+            {
+                "playerIn": {
+                    "name": "Williot Swedberg",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "williot-swedberg",
+                    "shortName": "W. Swedberg",
+                    "position": "F",
+                    "userCount": 635,
+                    "id": 1126779
+                },
+                "playerOut": {
+                    "name": "Javi Gal\u00e1n",
+                    "slug": "javi-galan",
+                    "shortName": "J. Gal\u00e1n",
+                    "position": "D",
+                    "userCount": 717,
+                    "id": 825133
+                },
+                "id": 121723277,
+                "time": 73,
+                "isHome": false,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 18,
+                "incidentType": "substitution"
+            },
+            {
+                "player": {
+                    "name": "Javi Gal\u00e1n",
+                    "slug": "javi-galan",
+                    "shortName": "J. Gal\u00e1n",
+                    "position": "D",
+                    "userCount": 717,
+                    "id": 825133
+                },
+                "playerName": "Javi Gal\u00e1n",
+                "reason": "Foul",
+                "rescinded": false,
+                "id": 120728113,
+                "time": 70,
+                "isHome": false,
+                "incidentClass": "yellow",
+                "reversedPeriodTime": 21,
+                "incidentType": "card"
+            },
+            {
+                "playerIn": {
+                    "name": "\u00d3scar Rodr\u00edguez",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "oscar-rodriguez",
+                    "shortName": "\u00d3. Rodr\u00edguez",
+                    "position": "M",
+                    "userCount": 922,
+                    "id": 794948
+                },
+                "playerOut": {
+                    "name": "Haris Seferovi\u0107",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "haris-seferovic",
+                    "shortName": "H. Seferovi\u0107",
+                    "position": "F",
+                    "userCount": 1908,
+                    "id": 50899
+                },
+                "id": 121723215,
+                "time": 62,
+                "isHome": false,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 29,
+                "incidentType": "substitution"
+            },
+            {
+                "playerIn": {
+                    "name": "Gon\u00e7alo Paci\u00eancia",
+                    "slug": "goncalo-paciencia",
+                    "shortName": "G. Paci\u00eancia",
+                    "position": "F",
+                    "userCount": 833,
+                    "id": 138890
+                },
+                "playerOut": {
+                    "name": "Gabri Veiga",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "gabri-veiga",
+                    "shortName": "G. Veiga",
+                    "position": "M",
+                    "userCount": 3216,
+                    "id": 1010505
+                },
+                "id": 121723214,
+                "time": 62,
+                "isHome": false,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 29,
+                "incidentType": "substitution"
+            },
+            {
+                "homeScore": 2,
+                "awayScore": 0,
+                "player": {
+                    "name": "\u00c9der Milit\u00e3o",
+                    "slug": "eder-militao",
+                    "shortName": "\u00c9. Milit\u00e3o",
+                    "position": "D",
+                    "userCount": 17599,
+                    "id": 822519
+                },
+                "assist1": {
+                    "name": "Marco Asensio",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "marco-asensio",
+                    "shortName": "M. Asensio",
+                    "position": "F",
+                    "userCount": 18903,
+                    "id": 361004
+                },
+                "id": 168721509,
+                "time": 48,
+                "isHome": true,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 43,
+                "incidentType": "goal"
+            },
+            {
+                "playerIn": {
+                    "name": "Franco Cervi",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "franco-cervi",
+                    "shortName": "F. Cervi",
+                    "position": "M",
+                    "userCount": 1022,
+                    "id": 557008
+                },
+                "playerOut": {
+                    "name": "Augusto Solari",
+                    "slug": "augusto-solari",
+                    "shortName": "A. Solari",
+                    "position": "M",
+                    "userCount": 199,
+                    "id": 291279
+                },
+                "id": 121723105,
+                "time": 46,
+                "isHome": false,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 45,
+                "incidentType": "substitution"
+            },
+            {
+                "text": "HT",
+                "homeScore": 1,
+                "awayScore": 0,
+                "isLive": false,
+                "time": 45,
+                "addedTime": 999,
+                "incidentType": "period"
+            },
+            {
+                "player": {
+                    "name": "Dani Ceballos",
+                    "slug": "dani-ceballos",
+                    "shortName": "D. Ceballos",
+                    "position": "M",
+                    "userCount": 8442,
+                    "id": 547838
+                },
+                "playerName": "Dani Ceballos",
+                "reason": "Foul",
+                "rescinded": false,
+                "id": 120727962,
+                "time": 45,
+                "addedTime": 1,
+                "isHome": true,
+                "incidentClass": "yellow",
+                "reversedPeriodTime": 1,
+                "incidentType": "card"
+            },
+            {
+                "length": 1,
+                "time": 45,
+                "addedTime": 0,
+                "incidentType": "injuryTime"
+            },
+            {
+                "homeScore": 1,
+                "awayScore": 0,
+                "player": {
+                    "name": "Marco Asensio",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "marco-asensio",
+                    "shortName": "M. Asensio",
+                    "position": "F",
+                    "userCount": 18903,
+                    "id": 361004
+                },
+                "assist1": {
+                    "name": "Vin\u00edcius J\u00fanior",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "vinicius-junior",
+                    "shortName": "Vin\u00edcius",
+                    "position": "F",
+                    "userCount": 160346,
+                    "id": 868812
+                },
+                "id": 168721039,
+                "time": 42,
+                "isHome": true,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 4,
+                "incidentType": "goal"
+            },
+            {
+                "player": {
+                    "name": "Kevin V\u00e1zquez",
+                    "slug": "kevin-vazquez",
+                    "shortName": "K. V\u00e1zquez",
+                    "position": "D",
+                    "userCount": 80,
+                    "id": 795257
+                },
+                "playerName": "Kevin V\u00e1zquez",
+                "reason": "Foul",
+                "rescinded": false,
+                "id": 120727892,
+                "time": 19,
+                "isHome": false,
+                "incidentClass": "yellow",
+                "reversedPeriodTime": 27,
+                "incidentType": "card"
+            }
+        ]
+    },
+    "10408437": {
+        "incidents": [
+            {
+                "text": "FT",
+                "homeScore": 4,
+                "awayScore": 2,
+                "isLive": false,
+                "time": 90,
+                "addedTime": 999,
+                "incidentType": "period"
+            },
+            {
+                "playerIn": {
+                    "name": "Ricard Artero",
+                    "firstName": "Ricard Artero",
+                    "lastName": "",
+                    "slug": "ricard-artero",
+                    "shortName": "R. Artero",
+                    "position": "M",
+                    "userCount": 19,
+                    "id": 1134432
+                },
+                "playerOut": {
+                    "name": "Iv\u00e1n Mart\u00edn",
+                    "slug": "ivan-martin",
+                    "shortName": "I. Mart\u00edn",
+                    "position": "M",
+                    "userCount": 276,
+                    "id": 973699
+                },
+                "id": 121732934,
+                "time": 90,
+                "addedTime": 2,
+                "isHome": true,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 1,
+                "incidentType": "substitution"
+            },
+            {
+                "length": 3,
+                "time": 90,
+                "addedTime": 0,
+                "incidentType": "injuryTime"
+            },
+            {
+                "playerIn": {
+                    "name": "Reinier",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "reinier",
+                    "shortName": "Reinier",
+                    "position": "M",
+                    "userCount": 7841,
+                    "id": 978562
+                },
+                "playerOut": {
+                    "name": "Rodrigo Riquelme",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "rodrigo-riquelme",
+                    "shortName": "R. Riquelme",
+                    "position": "M",
+                    "userCount": 1425,
+                    "id": 989113
+                },
+                "id": 121732929,
+                "time": 89,
+                "isHome": true,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 2,
+                "incidentType": "substitution"
+            },
+            {
+                "playerIn": {
+                    "name": "Javier Hern\u00e1ndez",
+                    "slug": "javier-hernandez",
+                    "shortName": "J. Hern\u00e1ndez",
+                    "position": "D",
+                    "userCount": 386,
+                    "id": 1031658
+                },
+                "playerOut": {
+                    "name": "Miguel Guti\u00e9rrez",
+                    "slug": "miguel-gutierrez",
+                    "shortName": "M. Guti\u00e9rrez",
+                    "position": "D",
+                    "userCount": 2001,
+                    "id": 908716
+                },
+                "id": 121732928,
+                "time": 89,
+                "isHome": true,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 2,
+                "incidentType": "substitution"
+            },
+            {
+                "homeScore": 4,
+                "awayScore": 2,
+                "player": {
+                    "name": "Lucas V\u00e1zquez",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "lucas-vazquez",
+                    "shortName": "L. V\u00e1zquez",
+                    "position": "D",
+                    "userCount": 8438,
+                    "id": 255239
+                },
+                "assist1": {
+                    "name": "Vin\u00edcius J\u00fanior",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "vinicius-junior",
+                    "shortName": "Vin\u00edcius",
+                    "position": "F",
+                    "userCount": 160346,
+                    "id": 868812
+                },
+                "id": 168740453,
+                "time": 85,
+                "isHome": false,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 6,
+                "incidentType": "goal"
+            },
+            {
+                "playerIn": {
+                    "name": "Lucas V\u00e1zquez",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "lucas-vazquez",
+                    "shortName": "L. V\u00e1zquez",
+                    "position": "D",
+                    "userCount": 8438,
+                    "id": 255239
+                },
+                "playerOut": {
+                    "name": "Daniel Carvajal",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "daniel-carvajal",
+                    "shortName": "D. Carvajal",
+                    "position": "D",
+                    "userCount": 13202,
+                    "id": 138572
+                },
+                "id": 121732894,
+                "time": 79,
+                "isHome": false,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 12,
+                "incidentType": "substitution"
+            },
+            {
+                "playerIn": {
+                    "name": "Mariano D\u00edaz",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "mariano-diaz",
+                    "shortName": "M. D\u00edaz",
+                    "position": "F",
+                    "userCount": 5196,
+                    "id": 175753
+                },
+                "playerOut": {
+                    "name": "Rodrygo",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "rodrygo",
+                    "shortName": "Rodrygo",
+                    "position": "F",
+                    "userCount": 67778,
+                    "id": 910536
+                },
+                "id": 121732893,
+                "time": 79,
+                "isHome": false,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 12,
+                "incidentType": "substitution"
+            },
+            {
+                "playerIn": {
+                    "name": "Valery Fern\u00e1ndez",
+                    "slug": "valery-fernandez",
+                    "shortName": "V. Fern\u00e1ndez",
+                    "position": "D",
+                    "userCount": 123,
+                    "id": 962378
+                },
+                "playerOut": {
+                    "name": "Viktor Tsygankov",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "viktor-tsygankov",
+                    "shortName": "V. Tsygankov",
+                    "position": "M",
+                    "userCount": 3183,
+                    "id": 319735
+                },
+                "id": 121732886,
+                "time": 72,
+                "isHome": true,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 19,
+                "incidentType": "substitution"
+            },
+            {
+                "playerIn": {
+                    "name": "Cristhian Stuani",
+                    "slug": "cristhian-stuani",
+                    "shortName": "C. Stuani",
+                    "position": "F",
+                    "userCount": 1260,
+                    "id": 32048
+                },
+                "playerOut": {
+                    "name": "Valentin Castellanos",
+                    "slug": "valentin-castellanos",
+                    "shortName": "V. Castellanos",
+                    "position": "F",
+                    "userCount": 5135,
+                    "id": 877013
+                },
+                "id": 121732885,
+                "time": 72,
+                "isHome": true,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 19,
+                "incidentType": "substitution"
+            },
+            {
+                "player": {
+                    "name": "\u00c9der Milit\u00e3o",
+                    "slug": "eder-militao",
+                    "shortName": "\u00c9. Milit\u00e3o",
+                    "position": "D",
+                    "userCount": 17599,
+                    "id": 822519
+                },
+                "playerName": "\u00c9der Milit\u00e3o",
+                "reason": "Foul",
+                "rescinded": false,
+                "id": 120734247,
+                "time": 65,
+                "isHome": false,
+                "incidentClass": "yellow",
+                "reversedPeriodTime": 26,
+                "incidentType": "card"
+            },
+            {
+                "playerIn": {
+                    "name": "Aur\u00e9lien Tchouam\u00e9ni",
+                    "slug": "aurelien-tchouameni",
+                    "shortName": "A. Tchouam\u00e9ni",
+                    "position": "M",
+                    "userCount": 23659,
+                    "id": 859025
+                },
+                "playerOut": {
+                    "name": "Luka Modri\u0107",
+                    "slug": "luka-modric",
+                    "shortName": "L. Modri\u0107",
+                    "position": "M",
+                    "userCount": 92056,
+                    "id": 15466
+                },
+                "id": 121732856,
+                "time": 63,
+                "isHome": false,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 28,
+                "incidentType": "substitution"
+            },
+            {
+                "homeScore": 4,
+                "awayScore": 1,
+                "player": {
+                    "name": "Valentin Castellanos",
+                    "slug": "valentin-castellanos",
+                    "shortName": "V. Castellanos",
+                    "position": "F",
+                    "userCount": 5135,
+                    "id": 877013
+                },
+                "id": 168740194,
+                "time": 62,
+                "isHome": true,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 29,
+                "incidentType": "goal"
+            },
+            {
+                "playerIn": {
+                    "name": "Eduardo Camavinga",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "camavinga-eduardo",
+                    "shortName": "E. Camavinga",
+                    "position": "M",
+                    "userCount": 29594,
+                    "id": 973887
+                },
+                "playerOut": {
+                    "name": "Nacho Fern\u00e1ndez",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "nacho-fernandez",
+                    "shortName": "N. Fern\u00e1ndez",
+                    "position": "D",
+                    "userCount": 8402,
+                    "id": 69404
+                },
+                "id": 121732844,
+                "time": 52,
+                "isHome": false,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 39,
+                "incidentType": "substitution"
+            },
+            {
+                "homeScore": 3,
+                "awayScore": 1,
+                "player": {
+                    "name": "Valentin Castellanos",
+                    "slug": "valentin-castellanos",
+                    "shortName": "V. Castellanos",
+                    "position": "F",
+                    "userCount": 5135,
+                    "id": 877013
+                },
+                "assist1": {
+                    "name": "Yan Couto",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "couto-yan",
+                    "shortName": "Y. Couto",
+                    "position": "M",
+                    "userCount": 1670,
+                    "id": 1002813
+                },
+                "id": 168739986,
+                "time": 46,
+                "isHome": true,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 45,
+                "incidentType": "goal"
+            },
+            {
+                "text": "HT",
+                "homeScore": 2,
+                "awayScore": 1,
+                "isLive": false,
+                "time": 45,
+                "addedTime": 999,
+                "incidentType": "period"
+            },
+            {
+                "length": 2,
+                "time": 45,
+                "addedTime": 0,
+                "incidentType": "injuryTime"
+            },
+            {
+                "player": {
+                    "name": "Arnau Mart\u00ednez",
+                    "firstName": "Arnau Martinez",
+                    "slug": "arnau-martinez",
+                    "shortName": "A. Mart\u00ednez",
+                    "position": "D",
+                    "userCount": 1230,
+                    "id": 1084081
+                },
+                "playerName": "Arnau Mart\u00ednez",
+                "reason": "Foul",
+                "rescinded": false,
+                "id": 120734216,
+                "time": 43,
+                "isHome": true,
+                "incidentClass": "yellow",
+                "reversedPeriodTime": 3,
+                "incidentType": "card"
+            },
+            {
+                "player": {
+                    "name": "Vin\u00edcius J\u00fanior",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "vinicius-junior",
+                    "shortName": "Vin\u00edcius",
+                    "position": "F",
+                    "userCount": 160346,
+                    "id": 868812
+                },
+                "playerName": "Vin\u00edcius J\u00fanior",
+                "reason": "Argument",
+                "rescinded": false,
+                "id": 120734209,
+                "time": 37,
+                "isHome": false,
+                "incidentClass": "yellow",
+                "reversedPeriodTime": 9,
+                "incidentType": "card"
+            },
+            {
+                "homeScore": 2,
+                "awayScore": 1,
+                "player": {
+                    "name": "Vin\u00edcius J\u00fanior",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "vinicius-junior",
+                    "shortName": "Vin\u00edcius",
+                    "position": "F",
+                    "userCount": 160346,
+                    "id": 868812
+                },
+                "assist1": {
+                    "name": "Marco Asensio",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "marco-asensio",
+                    "shortName": "M. Asensio",
+                    "position": "F",
+                    "userCount": 18903,
+                    "id": 361004
+                },
+                "id": 168739524,
+                "time": 34,
+                "isHome": false,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 12,
+                "incidentType": "goal"
+            },
+            {
+                "homeScore": 2,
+                "awayScore": 0,
+                "player": {
+                    "name": "Valentin Castellanos",
+                    "slug": "valentin-castellanos",
+                    "shortName": "V. Castellanos",
+                    "position": "F",
+                    "userCount": 5135,
+                    "id": 877013
+                },
+                "assist1": {
+                    "name": "Arnau Mart\u00ednez",
+                    "firstName": "Arnau Martinez",
+                    "slug": "arnau-martinez",
+                    "shortName": "A. Mart\u00ednez",
+                    "position": "D",
+                    "userCount": 1230,
+                    "id": 1084081
+                },
+                "id": 168739389,
+                "time": 24,
+                "isHome": true,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 22,
+                "incidentType": "goal"
+            },
+            {
+                "homeScore": 1,
+                "awayScore": 0,
+                "player": {
+                    "name": "Valentin Castellanos",
+                    "slug": "valentin-castellanos",
+                    "shortName": "V. Castellanos",
+                    "position": "F",
+                    "userCount": 5135,
+                    "id": 877013
+                },
+                "assist1": {
+                    "name": "Miguel Guti\u00e9rrez",
+                    "slug": "miguel-gutierrez",
+                    "shortName": "M. Guti\u00e9rrez",
+                    "position": "D",
+                    "userCount": 2001,
+                    "id": 908716
+                },
+                "id": 168739256,
+                "time": 12,
+                "isHome": true,
+                "incidentClass": "regular",
+                "reversedPeriodTime": 34,
+                "incidentType": "goal"
+            }
+        ]
+    }
+}
