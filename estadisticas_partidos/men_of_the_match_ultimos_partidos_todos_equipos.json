@@ -1,0 +1,166 @@
+{
+    "11137259": {
+        "bestHomeTeamPlayer": {
+            "value": "7.8",
+            "label": "rating",
+            "player": {
+                "name": "Daniel Carvajal",
+                "firstName": "",
+                "lastName": "",
+                "slug": "daniel-carvajal",
+                "shortName": "D. Carvajal",
+                "position": "D",
+                "userCount": 13269,
+                "id": 138572,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 695088000
+            }
+        },
+        "bestAwayTeamPlayer": {
+            "value": "7.7",
+            "label": "rating",
+            "player": {
+                "name": "Kepa Arrizabalaga",
+                "firstName": "",
+                "lastName": "",
+                "slug": "kepa-arrizabalaga",
+                "shortName": "K. Arrizabalaga",
+                "position": "G",
+                "userCount": 12292,
+                "id": 232422,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 781142400
+            }
+        }
+    },
+    "10408426": {
+        "bestHomeTeamPlayer": {
+            "value": "8.5",
+            "label": "rating",
+            "player": {
+                "name": "David Gil",
+                "slug": "david-gil",
+                "shortName": "D. Gil",
+                "position": "G",
+                "userCount": 85,
+                "id": 138390,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 758246400
+            }
+        },
+        "bestAwayTeamPlayer": {
+            "value": "8.8",
+            "label": "rating",
+            "player": {
+                "name": "Marco Asensio",
+                "firstName": "",
+                "lastName": "",
+                "slug": "marco-asensio",
+                "shortName": "M. Asensio",
+                "position": "F",
+                "userCount": 18911,
+                "id": 361004,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 822182400
+            }
+        }
+    },
+    "11137261": {
+        "bestHomeTeamPlayer": {
+            "value": "7.4",
+            "label": "rating",
+            "player": {
+                "name": "Kai Havertz",
+                "slug": "kai-havertz",
+                "shortName": "K. Havertz",
+                "position": "F",
+                "userCount": 37941,
+                "id": 836705,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 929059200
+            }
+        },
+        "bestAwayTeamPlayer": {
+            "value": "8.8",
+            "label": "rating",
+            "player": {
+                "name": "Rodrygo",
+                "firstName": "",
+                "lastName": "",
+                "slug": "rodrygo",
+                "shortName": "Rodrygo",
+                "position": "F",
+                "userCount": 67883,
+                "id": 910536,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 978998400
+            }
+        }
+    },
+    "10408427": {
+        "bestHomeTeamPlayer": {
+            "value": "9.3",
+            "label": "rating",
+            "player": {
+                "name": "Marco Asensio",
+                "firstName": "",
+                "lastName": "",
+                "slug": "marco-asensio",
+                "shortName": "M. Asensio",
+                "position": "F",
+                "userCount": 18911,
+                "id": 361004,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 822182400
+            }
+        },
+        "bestAwayTeamPlayer": {
+            "value": "7.5",
+            "label": "rating",
+            "player": {
+                "name": "\u00d3scar Rodr\u00edguez",
+                "firstName": "",
+                "lastName": "",
+                "slug": "oscar-rodriguez",
+                "shortName": "\u00d3. Rodr\u00edguez",
+                "position": "M",
+                "userCount": 918,
+                "id": 794948,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 898992000
+            }
+        }
+    },
+    "10408437": {
+        "bestHomeTeamPlayer": {
+            "value": "10",
+            "label": "rating",
+            "player": {
+                "name": "Valentin Castellanos",
+                "slug": "valentin-castellanos",
+                "shortName": "V. Castellanos",
+                "position": "F",
+                "userCount": 5129,
+                "id": 877013,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 907372800
+            }
+        },
+        "bestAwayTeamPlayer": {
+            "value": "8.4",
+            "label": "rating",
+            "player": {
+                "name": "Lucas V\u00e1zquez",
+                "firstName": "",
+                "lastName": "",
+                "slug": "lucas-vazquez",
+                "shortName": "L. V\u00e1zquez",
+                "position": "D",
+                "userCount": 8436,
+                "id": 255239,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 678326400
+            }
+        }
+    }
+}
