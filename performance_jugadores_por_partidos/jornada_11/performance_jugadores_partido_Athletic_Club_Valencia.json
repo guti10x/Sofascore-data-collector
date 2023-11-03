@@ -1,0 +1,2537 @@
+{
+    "Unai Sim\u00f3n": {
+        "puntuacion": "6.7",
+        "estadisticas": [
+            {
+                "Minutes played": "90'"
+            },
+            {
+                "Saves": "2"
+            },
+            {
+                "Goals prevented": "0.35"
+            },
+            {
+                "Punches": "0"
+            },
+            {
+                "Runs out (succ.)": "0 (0)"
+            },
+            {
+                "High claims": "1"
+            },
+            {
+                "Saves from inside box": "1"
+            },
+            {
+                "Touches": "43"
+            },
+            {
+                "Acc. passes": "24/37 (65%)"
+            },
+            {
+                "Key passes": "0"
+            },
+            {
+                "Crosses (acc.)": "0 (0)"
+            },
+            {
+                "Long balls (acc.)": "23 (11)"
+            },
+            {
+                "Clearances": "0"
+            },
+            {
+                "Blocked shots": "0"
+            },
+            {
+                "Interceptions": "0"
+            },
+            {
+                "Tackles": "0"
+            },
+            {
+                "Dribbled past": "0"
+            },
+            {
+                "Ground duels (won)": "1 (1)"
+            },
+            {
+                "Aerial duels (won)": "0 (0)"
+            },
+            {
+                "Fouls": "0"
+            },
+            {
+                "Was fouled": "0"
+            },
+            {
+                "Shots on target": "0"
+            },
+            {
+                "Shots off target": "0"
+            },
+            {
+                "Shots blocked": "0"
+            },
+            {
+                "Dribble attempts (succ.)": "0 (0)"
+            }
+        ]
+    },
+    "\u00d3scar de Marcos": {
+        "puntuacion": "8.7",
+        "estadisticas": [
+            {
+                "Minutes played": "90'"
+            },
+            {
+                "Goals": "1"
+            },
+            {
+                "Expected Goals (xG)": "0.16"
+            },
+            {
+                "Assists": "0"
+            },
+            {
+                "Expected Assists (xA)": "0.23"
+            },
+            {
+                "Clearances": "1"
+            },
+            {
+                "Blocked shots": "1"
+            },
+            {
+                "Interceptions": "0"
+            },
+            {
+                "Tackles": "10"
+            },
+            {
+                "Dribbled past": "1"
+            },
+            {
+                "Clearance off line": "1"
+            },
+            {
+                "Ground duels (won)": "15 (11)"
+            },
+            {
+                "Aerial duels (won)": "2 (2)"
+            },
+            {
+                "Possession lost": "15"
+            },
+            {
+                "Fouls": "0"
+            },
+            {
+                "Was fouled": "0"
+            },
+            {
+                "Offsides": "1"
+            },
+            {
+                "Touches": "93"
+            },
+            {
+                "Acc. passes": "44/51 (86%)"
+            },
+            {
+                "Key passes": "1"
+            },
+            {
+                "Crosses (acc.)": "7 (3)"
+            },
+            {
+                "Long balls (acc.)": "3 (0)"
+            },
+            {
+                "Shots on target": "1"
+            },
+            {
+                "Shots off target": "0"
+            },
+            {
+                "Shots blocked": "0"
+            },
+            {
+                "Dribble attempts (succ.)": "2 (1)"
+            }
+        ]
+    },
+    "Daniel Vivian": {
+        "puntuacion": "7.4",
+        "estadisticas": [
+            {
+                "Minutes played": "90'"
+            },
+            {
+                "Goals": "0"
+            },
+            {
+                "Assists": "0"
+            },
+            {
+                "Expected Assists (xA)": "0.15"
+            },
+            {
+                "Clearances": "5"
+            },
+            {
+                "Blocked shots": "1"
+            },
+            {
+                "Interceptions": "1"
+            },
+            {
+                "Tackles": "0"
+            },
+            {
+                "Dribbled past": "0"
+            },
+            {
+                "Ground duels (won)": "4 (2)"
+            },
+            {
+                "Aerial duels (won)": "1 (1)"
+            },
+            {
+                "Possession lost": "12"
+            },
+            {
+                "Fouls": "1"
+            },
+            {
+                "Was fouled": "1"
+            },
+            {
+                "Touches": "81"
+            },
+            {
+                "Acc. passes": "56/66 (85%)"
+            },
+            {
+                "Key passes": "1"
+            },
+            {
+                "Crosses (acc.)": "0 (0)"
+            },
+            {
+                "Long balls (acc.)": "8 (6)"
+            },
+            {
+                "Big chances created": "1"
+            },
+            {
+                "Shots on target": "0"
+            },
+            {
+                "Shots off target": "0"
+            },
+            {
+                "Shots blocked": "0"
+            },
+            {
+                "Dribble attempts (succ.)": "2 (1)"
+            }
+        ]
+    },
+    "Aitor Paredes": {
+        "puntuacion": "6.7",
+        "estadisticas": [
+            {
+                "Minutes played": "65'"
+            },
+            {
+                "Goals": "0"
+            },
+            {
+                "Assists": "0"
+            },
+            {
+                "Clearances": "3"
+            },
+            {
+                "Blocked shots": "1"
+            },
+            {
+                "Interceptions": "0"
+            },
+            {
+                "Tackles": "1"
+            },
+            {
+                "Dribbled past": "2"
+            },
+            {
+                "Ground duels (won)": "4 (1)"
+            },
+            {
+                "Aerial duels (won)": "3 (2)"
+            },
+            {
+                "Possession lost": "5"
+            },
+            {
+                "Fouls": "1"
+            },
+            {
+                "Was fouled": "0"
+            },
+            {
+                "Touches": "59"
+            },
+            {
+                "Acc. passes": "46/51 (90%)"
+            },
+            {
+                "Key passes": "0"
+            },
+            {
+                "Crosses (acc.)": "0 (0)"
+            },
+            {
+                "Long balls (acc.)": "7 (5)"
+            },
+            {
+                "Shots on target": "0"
+            },
+            {
+                "Shots off target": "0"
+            },
+            {
+                "Shots blocked": "0"
+            },
+            {
+                "Dribble attempts (succ.)": "0 (0)"
+            }
+        ]
+    },
+    "Imanol Garc\u00eda de Alb\u00e9niz": {
+        "puntuacion": "6.7",
+        "estadisticas": [
+            {
+                "Minutes played": "90'"
+            },
+            {
+                "Goals": "0"
+            },
+            {
+                "Assists": "0"
+            },
+            {
+                "Expected Assists (xA)": "0.11"
+            },
+            {
+                "Clearances": "1"
+            },
+            {
+                "Blocked shots": "0"
+            },
+            {
+                "Interceptions": "1"
+            },
+            {
+                "Tackles": "1"
+            },
+            {
+                "Dribbled past": "3"
+            },
+            {
+                "Ground duels (won)": "7 (2)"
+            },
+            {
+                "Aerial duels (won)": "3 (2)"
+            },
+            {
+                "Possession lost": "10"
+            },
+            {
+                "Fouls": "1"
+            },
+            {
+                "Was fouled": "0"
+            },
+            {
+                "Touches": "78"
+            },
+            {
+                "Acc. passes": "47/54 (87%)"
+            },
+            {
+                "Key passes": "1"
+            },
+            {
+                "Crosses (acc.)": "4 (2)"
+            },
+            {
+                "Long balls (acc.)": "2 (2)"
+            },
+            {
+                "Shots on target": "0"
+            },
+            {
+                "Shots off target": "0"
+            },
+            {
+                "Shots blocked": "0"
+            },
+            {
+                "Dribble attempts (succ.)": "1 (1)"
+            }
+        ]
+    },
+    "I\u00f1igo Ruiz de Galarreta": {
+        "puntuacion": "6.8",
+        "estadisticas": [
+            {
+                "Minutes played": "90'"
+            },
+            {
+                "Goals": "0"
+            },
+            {
+                "Expected Goals (xG)": "0.04"
+            },
+            {
+                "Assists": "0"
+            },
+            {
+                "Expected Assists (xA)": "0.03"
+            },
+            {
+                "Touches": "68"
+            },
+            {
+                "Acc. passes": "43/53 (81%)"
+            },
+            {
+                "Key passes": "0"
+            },
+            {
+                "Crosses (acc.)": "2 (0)"
+            },
+            {
+                "Long balls (acc.)": "3 (2)"
+            },
+            {
+                "Shots on target": "0"
+            },
+            {
+                "Shots off target": "1"
+            },
+            {
+                "Shots blocked": "0"
+            },
+            {
+                "Dribble attempts (succ.)": "0 (0)"
+            },
+            {
+                "Ground duels (won)": "9 (4)"
+            },
+            {
+                "Aerial duels (won)": "6 (3)"
+            },
+            {
+                "Possession lost": "15"
+            },
+            {
+                "Fouls": "2"
+            },
+            {
+                "Was fouled": "1"
+            },
+            {
+                "Clearances": "2"
+            },
+            {
+                "Blocked shots": "0"
+            },
+            {
+                "Interceptions": "0"
+            },
+            {
+                "Tackles": "3"
+            },
+            {
+                "Dribbled past": "1"
+            }
+        ]
+    },
+    "Dani Garc\u00eda": {
+        "puntuacion": "6.8",
+        "estadisticas": [
+            {
+                "Minutes played": "65'"
+            },
+            {
+                "Goals": "0"
+            },
+            {
+                "Expected Goals (xG)": "0.04"
+            },
+            {
+                "Assists": "0"
+            },
+            {
+                "Expected Assists (xA)": "0.02"
+            },
+            {
+                "Touches": "41"
+            },
+            {
+                "Acc. passes": "27/34 (79%)"
+            },
+            {
+                "Key passes": "0"
+            },
+            {
+                "Crosses (acc.)": "0 (0)"
+            },
+            {
+                "Long balls (acc.)": "4 (3)"
+            },
+            {
+                "Shots on target": "1"
+            },
+            {
+                "Shots off target": "0"
+            },
+            {
+                "Shots blocked": "0"
+            },
+            {
+                "Dribble attempts (succ.)": "0 (0)"
+            },
+            {
+                "Hit woodwork": "1"
+            },
+            {
+                "Ground duels (won)": "6 (2)"
+            },
+            {
+                "Aerial duels (won)": "0 (0)"
+            },
+            {
+                "Possession lost": "7"
+            },
+            {
+                "Fouls": "1"
+            },
+            {
+                "Was fouled": "0"
+            },
+            {
+                "Clearances": "0"
+            },
+            {
+                "Blocked shots": "0"
+            },
+            {
+                "Interceptions": "1"
+            },
+            {
+                "Tackles": "2"
+            },
+            {
+                "Dribbled past": "3"
+            }
+        ]
+    },
+    "I\u00f1aki Williams": {
+        "puntuacion": "6.6",
+        "estadisticas": [
+            {
+                "Minutes played": "90'"
+            },
+            {
+                "Goals": "0"
+            },
+            {
+                "Expected Goals (xG)": "0.57"
+            },
+            {
+                "Assists": "1"
+            },
+            {
+                "Expected Assists (xA)": "0.56"
+            },
+            {
+                "Touches": "64"
+            },
+            {
+                "Acc. passes": "17/30 (57%)"
+            },
+            {
+                "Key passes": "2"
+            },
+            {
+                "Crosses (acc.)": "6 (2)"
+            },
+            {
+                "Long balls (acc.)": "0 (0)"
+            },
+            {
+                "Big chances created": "1"
+            },
+            {
+                "Shots on target": "3"
+            },
+            {
+                "Shots off target": "0"
+            },
+            {
+                "Shots blocked": "0"
+            },
+            {
+                "Dribble attempts (succ.)": "7 (2)"
+            },
+            {
+                "Big chances missed": "1"
+            },
+            {
+                "Ground duels (won)": "13 (3)"
+            },
+            {
+                "Aerial duels (won)": "0 (0)"
+            },
+            {
+                "Possession lost": "32"
+            },
+            {
+                "Fouls": "0"
+            },
+            {
+                "Was fouled": "1"
+            },
+            {
+                "Clearances": "0"
+            },
+            {
+                "Blocked shots": "0"
+            },
+            {
+                "Interceptions": "1"
+            },
+            {
+                "Tackles": "0"
+            },
+            {
+                "Dribbled past": "1"
+            }
+        ]
+    },
+    "Oihan Sancet": {
+        "puntuacion": "6.4",
+        "estadisticas": [
+            {
+                "Minutes played": "72'"
+            },
+            {
+                "Goals": "0"
+            },
+            {
+                "Expected Goals (xG)": "0.06"
+            },
+            {
+                "Assists": "0"
+            },
+            {
+                "Expected Assists (xA)": "0.04"
+            },
+            {
+                "Touches": "35"
+            },
+            {
+                "Acc. passes": "20/22 (91%)"
+            },
+            {
+                "Key passes": "2"
+            },
+            {
+                "Crosses (acc.)": "0 (0)"
+            },
+            {
+                "Long balls (acc.)": "1 (1)"
+            },
+            {
+                "Shots on target": "0"
+            },
+            {
+                "Shots off target": "1"
+            },
+            {
+                "Shots blocked": "0"
+            },
+            {
+                "Dribble attempts (succ.)": "3 (0)"
+            },
+            {
+                "Ground duels (won)": "5 (0)"
+            },
+            {
+                "Aerial duels (won)": "2 (1)"
+            },
+            {
+                "Possession lost": "9"
+            },
+            {
+                "Fouls": "1"
+            },
+            {
+                "Was fouled": "0"
+            },
+            {
+                "Clearances": "0"
+            },
+            {
+                "Blocked shots": "0"
+            },
+            {
+                "Interceptions": "0"
+            },
+            {
+                "Tackles": "0"
+            },
+            {
+                "Dribbled past": "0"
+            }
+        ]
+    },
+    "Nico Williams": {
+        "puntuacion": "6.9",
+        "estadisticas": [
+            {
+                "Minutes played": "69'"
+            },
+            {
+                "Goals": "0"
+            },
+            {
+                "Expected Goals (xG)": "0.03"
+            },
+            {
+                "Assists": "1"
+            },
+            {
+                "Expected Assists (xA)": "0.24"
+            },
+            {
+                "Touches": "35"
+            },
+            {
+                "Acc. passes": "11/15 (73%)"
+            },
+            {
+                "Key passes": "1"
+            },
+            {
+                "Crosses (acc.)": "3 (1)"
+            },
+            {
+                "Long balls (acc.)": "0 (0)"
+            },
+            {
+                "Big chances created": "1"
+            },
+            {
+                "Shots on target": "0"
+            },
+            {
+                "Shots off target": "0"
+            },
+            {
+                "Shots blocked": "1"
+            },
+            {
+                "Dribble attempts (succ.)": "6 (3)"
+            },
+            {
+                "Ground duels (won)": "10 (4)"
+            },
+            {
+                "Aerial duels (won)": "0 (0)"
+            },
+            {
+                "Possession lost": "15"
+            },
+            {
+                "Fouls": "0"
+            },
+            {
+                "Was fouled": "1"
+            },
+            {
+                "Offsides": "1"
+            },
+            {
+                "Clearances": "0"
+            },
+            {
+                "Blocked shots": "0"
+            },
+            {
+                "Interceptions": "0"
+            },
+            {
+                "Tackles": "0"
+            },
+            {
+                "Dribbled past": "0"
+            }
+        ]
+    },
+    "Gorka Guruzeta": {
+        "puntuacion": "7.0",
+        "estadisticas": [
+            {
+                "Minutes played": "69'"
+            },
+            {
+                "Goals": "0"
+            },
+            {
+                "Assists": "0"
+            },
+            {
+                "Expected Assists (xA)": "0.02"
+            },
+            {
+                "Shots on target": "0"
+            },
+            {
+                "Shots off target": "0"
+            },
+            {
+                "Shots blocked": "0"
+            },
+            {
+                "Dribble attempts (succ.)": "0 (0)"
+            },
+            {
+                "Touches": "27"
+            },
+            {
+                "Acc. passes": "14/18 (78%)"
+            },
+            {
+                "Key passes": "1"
+            },
+            {
+                "Crosses (acc.)": "0 (0)"
+            },
+            {
+                "Long balls (acc.)": "1 (1)"
+            },
+            {
+                "Ground duels (won)": "5 (3)"
+            },
+            {
+                "Aerial duels (won)": "10 (5)"
+            },
+            {
+                "Possession lost": "6"
+            },
+            {
+                "Fouls": "0"
+            },
+            {
+                "Was fouled": "2"
+            },
+            {
+                "Clearances": "0"
+            },
+            {
+                "Blocked shots": "0"
+            },
+            {
+                "Interceptions": "2"
+            },
+            {
+                "Tackles": "1"
+            },
+            {
+                "Dribbled past": "0"
+            }
+        ]
+    },
+    "Giorgi Mamardashvili": {
+        "puntuacion": "7.4",
+        "estadisticas": [
+            {
+                "Minutes played": "90'"
+            },
+            {
+                "Saves": "5"
+            },
+            {
+                "Goals prevented": "-0.15"
+            },
+            {
+                "Punches": "0"
+            },
+            {
+                "Runs out (succ.)": "1 (1)"
+            },
+            {
+                "High claims": "1"
+            },
+            {
+                "Saves from inside box": "3"
+            },
+            {
+                "Touches": "40"
+            },
+            {
+                "Acc. passes": "13/30 (43%)"
+            },
+            {
+                "Key passes": "0"
+            },
+            {
+                "Crosses (acc.)": "0 (0)"
+            },
+            {
+                "Long balls (acc.)": "26 (9)"
+            },
+            {
+                "Clearances": "1"
+            },
+            {
+                "Blocked shots": "0"
+            },
+            {
+                "Interceptions": "0"
+            },
+            {
+                "Tackles": "0"
+            },
+            {
+                "Dribbled past": "0"
+            },
+            {
+                "Ground duels (won)": "0 (0)"
+            },
+            {
+                "Aerial duels (won)": "0 (0)"
+            },
+            {
+                "Fouls": "0"
+            },
+            {
+                "Was fouled": "0"
+            },
+            {
+                "Shots on target": "0"
+            },
+            {
+                "Shots off target": "0"
+            },
+            {
+                "Shots blocked": "0"
+            },
+            {
+                "Dribble attempts (succ.)": "0 (0)"
+            }
+        ]
+    },
+    "Thierry Correia": {
+        "puntuacion": "6.7",
+        "estadisticas": [
+            {
+                "Minutes played": "90'"
+            },
+            {
+                "Goals": "0"
+            },
+            {
+                "Assists": "0"
+            },
+            {
+                "Expected Assists (xA)": "0.02"
+            },
+            {
+                "Clearances": "2"
+            },
+            {
+                "Blocked shots": "0"
+            },
+            {
+                "Interceptions": "2"
+            },
+            {
+                "Tackles": "5"
+            },
+            {
+                "Dribbled past": "3"
+            },
+            {
+                "Ground duels (won)": "11 (8)"
+            },
+            {
+                "Aerial duels (won)": "3 (0)"
+            },
+            {
+                "Possession lost": "16"
+            },
+            {
+                "Fouls": "0"
+            },
+            {
+                "Was fouled": "3"
+            },
+            {
+                "Touches": "73"
+            },
+            {
+                "Acc. passes": "31/43 (72%)"
+            },
+            {
+                "Key passes": "0"
+            },
+            {
+                "Crosses (acc.)": "1 (0)"
+            },
+            {
+                "Long balls (acc.)": "9 (2)"
+            },
+            {
+                "Shots on target": "0"
+            },
+            {
+                "Shots off target": "0"
+            },
+            {
+                "Shots blocked": "0"
+            },
+            {
+                "Dribble attempts (succ.)": "0 (0)"
+            }
+        ]
+    },
+    "Cristhian Mosquera": {
+        "puntuacion": "6.6",
+        "estadisticas": [
+            {
+                "Minutes played": "90'"
+            },
+            {
+                "Goals": "0"
+            },
+            {
+                "Assists": "0"
+            },
+            {
+                "Clearances": "3"
+            },
+            {
+                "Blocked shots": "0"
+            },
+            {
+                "Interceptions": "2"
+            },
+            {
+                "Tackles": "2"
+            },
+            {
+                "Dribbled past": "1"
+            },
+            {
+                "Ground duels (won)": "3 (2)"
+            },
+            {
+                "Aerial duels (won)": "5 (3)"
+            },
+            {
+                "Possession lost": "10"
+            },
+            {
+                "Fouls": "0"
+            },
+            {
+                "Was fouled": "0"
+            },
+            {
+                "Touches": "48"
+            },
+            {
+                "Acc. passes": "30/40 (75%)"
+            },
+            {
+                "Key passes": "0"
+            },
+            {
+                "Crosses (acc.)": "0 (0)"
+            },
+            {
+                "Long balls (acc.)": "7 (2)"
+            },
+            {
+                "Shots on target": "0"
+            },
+            {
+                "Shots off target": "0"
+            },
+            {
+                "Shots blocked": "0"
+            },
+            {
+                "Dribble attempts (succ.)": "0 (0)"
+            }
+        ]
+    },
+    "Gabriel Paulista": {
+        "puntuacion": "7.0",
+        "estadisticas": [
+            {
+                "Minutes played": "90'"
+            },
+            {
+                "Goals": "0"
+            },
+            {
+                "Expected Goals (xG)": "0.03"
+            },
+            {
+                "Assists": "0"
+            },
+            {
+                "Clearances": "9"
+            },
+            {
+                "Blocked shots": "1"
+            },
+            {
+                "Interceptions": "1"
+            },
+            {
+                "Tackles": "2"
+            },
+            {
+                "Dribbled past": "0"
+            },
+            {
+                "Ground duels (won)": "3 (2)"
+            },
+            {
+                "Aerial duels (won)": "3 (3)"
+            },
+            {
+                "Possession lost": "8"
+            },
+            {
+                "Fouls": "1"
+            },
+            {
+                "Was fouled": "0"
+            },
+            {
+                "Touches": "60"
+            },
+            {
+                "Acc. passes": "38/46 (83%)"
+            },
+            {
+                "Key passes": "0"
+            },
+            {
+                "Crosses (acc.)": "0 (0)"
+            },
+            {
+                "Long balls (acc.)": "9 (4)"
+            },
+            {
+                "Shots on target": "0"
+            },
+            {
+                "Shots off target": "0"
+            },
+            {
+                "Shots blocked": "1"
+            },
+            {
+                "Dribble attempts (succ.)": "0 (0)"
+            }
+        ]
+    },
+    "Jos\u00e9 Luis Gay\u00e0": {
+        "puntuacion": "7.1",
+        "estadisticas": [
+            {
+                "Minutes played": "90'"
+            },
+            {
+                "Goals": "0"
+            },
+            {
+                "Assists": "0"
+            },
+            {
+                "Expected Assists (xA)": "0.36"
+            },
+            {
+                "Clearances": "2"
+            },
+            {
+                "Blocked shots": "0"
+            },
+            {
+                "Interceptions": "0"
+            },
+            {
+                "Tackles": "6"
+            },
+            {
+                "Dribbled past": "2"
+            },
+            {
+                "Last man tackle": "1"
+            },
+            {
+                "Ground duels (won)": "8 (6)"
+            },
+            {
+                "Aerial duels (won)": "1 (0)"
+            },
+            {
+                "Possession lost": "14"
+            },
+            {
+                "Fouls": "0"
+            },
+            {
+                "Was fouled": "0"
+            },
+            {
+                "Touches": "59"
+            },
+            {
+                "Acc. passes": "29/38 (76%)"
+            },
+            {
+                "Key passes": "1"
+            },
+            {
+                "Crosses (acc.)": "3 (1)"
+            },
+            {
+                "Long balls (acc.)": "4 (2)"
+            },
+            {
+                "Big chances created": "1"
+            },
+            {
+                "Shots on target": "0"
+            },
+            {
+                "Shots off target": "0"
+            },
+            {
+                "Shots blocked": "0"
+            },
+            {
+                "Dribble attempts (succ.)": "0 (0)"
+            }
+        ]
+    },
+    "Fran P\u00e9rez": {
+        "puntuacion": "8.5",
+        "estadisticas": [
+            {
+                "Minutes played": "73'"
+            },
+            {
+                "Goals": "1"
+            },
+            {
+                "Expected Goals (xG)": "0.33"
+            },
+            {
+                "Assists": "1"
+            },
+            {
+                "Expected Assists (xA)": "0.58"
+            },
+            {
+                "Touches": "45"
+            },
+            {
+                "Acc. passes": "21/23 (91%)"
+            },
+            {
+                "Key passes": "2"
+            },
+            {
+                "Crosses (acc.)": "2 (0)"
+            },
+            {
+                "Long balls (acc.)": "0 (0)"
+            },
+            {
+                "Big chances created": "1"
+            },
+            {
+                "Shots on target": "1"
+            },
+            {
+                "Shots off target": "0"
+            },
+            {
+                "Shots blocked": "1"
+            },
+            {
+                "Dribble attempts (succ.)": "7 (6)"
+            },
+            {
+                "Ground duels (won)": "11 (7)"
+            },
+            {
+                "Aerial duels (won)": "1 (0)"
+            },
+            {
+                "Possession lost": "9"
+            },
+            {
+                "Fouls": "0"
+            },
+            {
+                "Was fouled": "1"
+            },
+            {
+                "Clearances": "0"
+            },
+            {
+                "Blocked shots": "0"
+            },
+            {
+                "Interceptions": "2"
+            },
+            {
+                "Tackles": "0"
+            },
+            {
+                "Dribbled past": "1"
+            }
+        ]
+    },
+    "Pepelu": {
+        "puntuacion": "7.4",
+        "estadisticas": [
+            {
+                "Minutes played": "90'"
+            },
+            {
+                "Goals": "0"
+            },
+            {
+                "Assists": "0"
+            },
+            {
+                "Expected Assists (xA)": "0.13"
+            },
+            {
+                "Touches": "65"
+            },
+            {
+                "Acc. passes": "39/52 (75%)"
+            },
+            {
+                "Key passes": "3"
+            },
+            {
+                "Crosses (acc.)": "3 (2)"
+            },
+            {
+                "Long balls (acc.)": "8 (7)"
+            },
+            {
+                "Shots on target": "0"
+            },
+            {
+                "Shots off target": "0"
+            },
+            {
+                "Shots blocked": "0"
+            },
+            {
+                "Dribble attempts (succ.)": "1 (1)"
+            },
+            {
+                "Ground duels (won)": "6 (4)"
+            },
+            {
+                "Aerial duels (won)": "8 (4)"
+            },
+            {
+                "Possession lost": "14"
+            },
+            {
+                "Fouls": "2"
+            },
+            {
+                "Was fouled": "0"
+            },
+            {
+                "Clearances": "2"
+            },
+            {
+                "Blocked shots": "0"
+            },
+            {
+                "Interceptions": "2"
+            },
+            {
+                "Tackles": "3"
+            },
+            {
+                "Dribbled past": "0"
+            }
+        ]
+    },
+    "Javier Guerra": {
+        "puntuacion": "6.8",
+        "estadisticas": [
+            {
+                "Minutes played": "90'"
+            },
+            {
+                "Goals": "0"
+            },
+            {
+                "Assists": "0"
+            },
+            {
+                "Expected Assists (xA)": "0.31"
+            },
+            {
+                "Touches": "56"
+            },
+            {
+                "Acc. passes": "29/39 (74%)"
+            },
+            {
+                "Key passes": "2"
+            },
+            {
+                "Crosses (acc.)": "0 (0)"
+            },
+            {
+                "Long balls (acc.)": "2 (0)"
+            },
+            {
+                "Shots on target": "0"
+            },
+            {
+                "Shots off target": "0"
+            },
+            {
+                "Shots blocked": "0"
+            },
+            {
+                "Dribble attempts (succ.)": "4 (2)"
+            },
+            {
+                "Ground duels (won)": "8 (4)"
+            },
+            {
+                "Aerial duels (won)": "0 (0)"
+            },
+            {
+                "Possession lost": "18"
+            },
+            {
+                "Fouls": "0"
+            },
+            {
+                "Was fouled": "0"
+            },
+            {
+                "Clearances": "2"
+            },
+            {
+                "Blocked shots": "0"
+            },
+            {
+                "Interceptions": "0"
+            },
+            {
+                "Tackles": "2"
+            },
+            {
+                "Dribbled past": "0"
+            }
+        ]
+    },
+    "Selim Amallah": {
+        "puntuacion": "6.4",
+        "estadisticas": [
+            {
+                "Minutes played": "59'"
+            },
+            {
+                "Goals": "0"
+            },
+            {
+                "Expected Goals (xG)": "0.20"
+            },
+            {
+                "Assists": "0"
+            },
+            {
+                "Expected Assists (xA)": "0.01"
+            },
+            {
+                "Touches": "38"
+            },
+            {
+                "Acc. passes": "11/13 (85%)"
+            },
+            {
+                "Key passes": "0"
+            },
+            {
+                "Crosses (acc.)": "0 (0)"
+            },
+            {
+                "Long balls (acc.)": "0 (0)"
+            },
+            {
+                "Shots on target": "2"
+            },
+            {
+                "Shots off target": "0"
+            },
+            {
+                "Shots blocked": "1"
+            },
+            {
+                "Dribble attempts (succ.)": "6 (1)"
+            },
+            {
+                "Big chances missed": "1"
+            },
+            {
+                "Ground duels (won)": "15 (7)"
+            },
+            {
+                "Aerial duels (won)": "4 (1)"
+            },
+            {
+                "Possession lost": "11"
+            },
+            {
+                "Fouls": "1"
+            },
+            {
+                "Was fouled": "1"
+            },
+            {
+                "Clearances": "0"
+            },
+            {
+                "Blocked shots": "0"
+            },
+            {
+                "Interceptions": "3"
+            },
+            {
+                "Tackles": "5"
+            },
+            {
+                "Dribbled past": "1"
+            }
+        ]
+    },
+    "Diego Lopez": {
+        "puntuacion": "7.2",
+        "estadisticas": [
+            {
+                "Minutes played": "74'"
+            },
+            {
+                "Goals": "0"
+            },
+            {
+                "Expected Goals (xG)": "0.12"
+            },
+            {
+                "Assists": "0"
+            },
+            {
+                "Expected Assists (xA)": "0.05"
+            },
+            {
+                "Shots on target": "0"
+            },
+            {
+                "Shots off target": "2"
+            },
+            {
+                "Shots blocked": "0"
+            },
+            {
+                "Dribble attempts (succ.)": "2 (1)"
+            },
+            {
+                "Touches": "39"
+            },
+            {
+                "Acc. passes": "13/21 (62%)"
+            },
+            {
+                "Key passes": "2"
+            },
+            {
+                "Crosses (acc.)": "1 (0)"
+            },
+            {
+                "Long balls (acc.)": "2 (0)"
+            },
+            {
+                "Big chances created": "2"
+            },
+            {
+                "Ground duels (won)": "8 (5)"
+            },
+            {
+                "Aerial duels (won)": "4 (1)"
+            },
+            {
+                "Possession lost": "12"
+            },
+            {
+                "Fouls": "1"
+            },
+            {
+                "Was fouled": "1"
+            },
+            {
+                "Clearances": "0"
+            },
+            {
+                "Blocked shots": "0"
+            },
+            {
+                "Interceptions": "2"
+            },
+            {
+                "Tackles": "3"
+            },
+            {
+                "Dribbled past": "0"
+            }
+        ]
+    },
+    "Hugo Duro": {
+        "puntuacion": "8.2",
+        "estadisticas": [
+            {
+                "Minutes played": "78'"
+            },
+            {
+                "Goals": "1"
+            },
+            {
+                "Expected Goals (xG)": "1.18"
+            },
+            {
+                "Assists": "1"
+            },
+            {
+                "Expected Assists (xA)": "0.03"
+            },
+            {
+                "Shots on target": "2"
+            },
+            {
+                "Shots off target": "1"
+            },
+            {
+                "Shots blocked": "0"
+            },
+            {
+                "Dribble attempts (succ.)": "2 (1)"
+            },
+            {
+                "Big chances missed": "2"
+            },
+            {
+                "Touches": "36"
+            },
+            {
+                "Acc. passes": "12/18 (67%)"
+            },
+            {
+                "Key passes": "1"
+            },
+            {
+                "Crosses (acc.)": "0 (0)"
+            },
+            {
+                "Long balls (acc.)": "0 (0)"
+            },
+            {
+                "Big chances created": "1"
+            },
+            {
+                "Ground duels (won)": "9 (5)"
+            },
+            {
+                "Aerial duels (won)": "3 (1)"
+            },
+            {
+                "Possession lost": "11"
+            },
+            {
+                "Fouls": "1"
+            },
+            {
+                "Was fouled": "2"
+            },
+            {
+                "Clearances": "2"
+            },
+            {
+                "Blocked shots": "0"
+            },
+            {
+                "Interceptions": "0"
+            },
+            {
+                "Tackles": "2"
+            },
+            {
+                "Dribbled past": "1"
+            }
+        ]
+    },
+    "Be\u00f1at Prados": {
+        "puntuacion": "6.8",
+        "estadisticas": [
+            {
+                "Minutes played": "25'"
+            },
+            {
+                "Goals": "0"
+            },
+            {
+                "Expected Goals (xG)": "0.23"
+            },
+            {
+                "Assists": "0"
+            },
+            {
+                "Clearances": "0"
+            },
+            {
+                "Blocked shots": "0"
+            },
+            {
+                "Interceptions": "0"
+            },
+            {
+                "Tackles": "1"
+            },
+            {
+                "Dribbled past": "0"
+            },
+            {
+                "Ground duels (won)": "3 (2)"
+            },
+            {
+                "Aerial duels (won)": "0 (0)"
+            },
+            {
+                "Possession lost": "5"
+            },
+            {
+                "Fouls": "1"
+            },
+            {
+                "Was fouled": "1"
+            },
+            {
+                "Touches": "33"
+            },
+            {
+                "Acc. passes": "23/28 (82%)"
+            },
+            {
+                "Key passes": "0"
+            },
+            {
+                "Crosses (acc.)": "0 (0)"
+            },
+            {
+                "Long balls (acc.)": "1 (0)"
+            },
+            {
+                "Shots on target": "1"
+            },
+            {
+                "Shots off target": "1"
+            },
+            {
+                "Shots blocked": "0"
+            },
+            {
+                "Dribble attempts (succ.)": "0 (0)"
+            }
+        ]
+    },
+    "Mikel Vesga": {
+        "puntuacion": "6.5",
+        "estadisticas": [
+            {
+                "Minutes played": "25'"
+            },
+            {
+                "Goals": "0"
+            },
+            {
+                "Assists": "0"
+            },
+            {
+                "Expected Assists (xA)": "0.05"
+            },
+            {
+                "Touches": "24"
+            },
+            {
+                "Acc. passes": "13/17 (76%)"
+            },
+            {
+                "Key passes": "0"
+            },
+            {
+                "Crosses (acc.)": "0 (0)"
+            },
+            {
+                "Long balls (acc.)": "1 (1)"
+            },
+            {
+                "Shots on target": "0"
+            },
+            {
+                "Shots off target": "0"
+            },
+            {
+                "Shots blocked": "0"
+            },
+            {
+                "Dribble attempts (succ.)": "2 (0)"
+            },
+            {
+                "Ground duels (won)": "5 (2)"
+            },
+            {
+                "Aerial duels (won)": "2 (1)"
+            },
+            {
+                "Possession lost": "7"
+            },
+            {
+                "Fouls": "0"
+            },
+            {
+                "Was fouled": "0"
+            },
+            {
+                "Clearances": "0"
+            },
+            {
+                "Blocked shots": "0"
+            },
+            {
+                "Interceptions": "0"
+            },
+            {
+                "Tackles": "2"
+            },
+            {
+                "Dribbled past": "1"
+            }
+        ]
+    },
+    "Asier Villalibre": {
+        "puntuacion": "6.8",
+        "estadisticas": [
+            {
+                "Minutes played": "21'"
+            },
+            {
+                "Goals": "0"
+            },
+            {
+                "Expected Goals (xG)": "0.10"
+            },
+            {
+                "Assists": "0"
+            },
+            {
+                "Expected Assists (xA)": "0.03"
+            },
+            {
+                "Shots on target": "0"
+            },
+            {
+                "Shots off target": "1"
+            },
+            {
+                "Shots blocked": "0"
+            },
+            {
+                "Dribble attempts (succ.)": "0 (0)"
+            },
+            {
+                "Touches": "11"
+            },
+            {
+                "Acc. passes": "8/9 (89%)"
+            },
+            {
+                "Key passes": "0"
+            },
+            {
+                "Crosses (acc.)": "0 (0)"
+            },
+            {
+                "Long balls (acc.)": "0 (0)"
+            },
+            {
+                "Ground duels (won)": "1 (0)"
+            },
+            {
+                "Aerial duels (won)": "5 (3)"
+            },
+            {
+                "Possession lost": "1"
+            },
+            {
+                "Fouls": "1"
+            },
+            {
+                "Was fouled": "0"
+            },
+            {
+                "Offsides": "1"
+            },
+            {
+                "Clearances": "0"
+            },
+            {
+                "Blocked shots": "0"
+            },
+            {
+                "Interceptions": "0"
+            },
+            {
+                "Tackles": "0"
+            },
+            {
+                "Dribbled past": "0"
+            }
+        ]
+    },
+    "\u00c1lex Berenguer": {
+        "puntuacion": "7.7",
+        "estadisticas": [
+            {
+                "Minutes played": "21'"
+            },
+            {
+                "Goals": "1"
+            },
+            {
+                "Expected Goals (xG)": "0.63"
+            },
+            {
+                "Assists": "0"
+            },
+            {
+                "Expected Assists (xA)": "0.09"
+            },
+            {
+                "Shots on target": "1"
+            },
+            {
+                "Shots off target": "0"
+            },
+            {
+                "Shots blocked": "0"
+            },
+            {
+                "Dribble attempts (succ.)": "1 (1)"
+            },
+            {
+                "Touches": "22"
+            },
+            {
+                "Acc. passes": "6/7 (86%)"
+            },
+            {
+                "Key passes": "2"
+            },
+            {
+                "Crosses (acc.)": "5 (2)"
+            },
+            {
+                "Long balls (acc.)": "0 (0)"
+            },
+            {
+                "Ground duels (won)": "5 (2)"
+            },
+            {
+                "Aerial duels (won)": "3 (2)"
+            },
+            {
+                "Possession lost": "7"
+            },
+            {
+                "Fouls": "2"
+            },
+            {
+                "Was fouled": "1"
+            },
+            {
+                "Clearances": "0"
+            },
+            {
+                "Blocked shots": "0"
+            },
+            {
+                "Interceptions": "0"
+            },
+            {
+                "Tackles": "0"
+            },
+            {
+                "Dribbled past": "0"
+            }
+        ]
+    },
+    "Iker Muniain": {
+        "puntuacion": "6.5",
+        "estadisticas": [
+            {
+                "Minutes played": "18'"
+            },
+            {
+                "Goals": "0"
+            },
+            {
+                "Assists": "0"
+            },
+            {
+                "Shots on target": "0"
+            },
+            {
+                "Shots off target": "0"
+            },
+            {
+                "Shots blocked": "0"
+            },
+            {
+                "Dribble attempts (succ.)": "0 (0)"
+            },
+            {
+                "Touches": "11"
+            },
+            {
+                "Acc. passes": "5/7 (71%)"
+            },
+            {
+                "Key passes": "0"
+            },
+            {
+                "Crosses (acc.)": "2 (0)"
+            },
+            {
+                "Long balls (acc.)": "0 (0)"
+            },
+            {
+                "Ground duels (won)": "2 (1)"
+            },
+            {
+                "Aerial duels (won)": "1 (0)"
+            },
+            {
+                "Possession lost": "5"
+            },
+            {
+                "Fouls": "0"
+            },
+            {
+                "Was fouled": "1"
+            },
+            {
+                "Clearances": "0"
+            },
+            {
+                "Blocked shots": "0"
+            },
+            {
+                "Interceptions": "0"
+            },
+            {
+                "Tackles": "0"
+            },
+            {
+                "Dribbled past": "0"
+            }
+        ]
+    },
+    "Julen Agirrezabala": {
+        "puntuacion": null,
+        "estadisticas": [
+            {
+                "Minutes played": 0
+            }
+        ]
+    },
+    "Unai Egu\u00edluz": {
+        "puntuacion": null,
+        "estadisticas": [
+            {
+                "Minutes played": 0
+            }
+        ]
+    },
+    "\u00cd\u00f1igo Lekue": {
+        "puntuacion": null,
+        "estadisticas": [
+            {
+                "Minutes played": 0
+            }
+        ]
+    },
+    "Peru Nolaskoain Esnal": {
+        "puntuacion": null,
+        "estadisticas": [
+            {
+                "Minutes played": 0
+            }
+        ]
+    },
+    "Ra\u00fal Garc\u00eda": {
+        "puntuacion": null,
+        "estadisticas": [
+            {
+                "Minutes played": 0
+            }
+        ]
+    },
+    "Unai G\u00f3mez": {
+        "puntuacion": null,
+        "estadisticas": [
+            {
+                "Minutes played": 0
+            }
+        ]
+    },
+    "Sergi Can\u00f3s": {
+        "puntuacion": "6.3",
+        "estadisticas": [
+            {
+                "Minutes played": "31'"
+            },
+            {
+                "Goals": "0"
+            },
+            {
+                "Assists": "0"
+            },
+            {
+                "Expected Assists (xA)": "0.01"
+            },
+            {
+                "Touches": "18"
+            },
+            {
+                "Acc. passes": "5/9 (56%)"
+            },
+            {
+                "Key passes": "0"
+            },
+            {
+                "Crosses (acc.)": "0 (0)"
+            },
+            {
+                "Long balls (acc.)": "1 (0)"
+            },
+            {
+                "Shots on target": "0"
+            },
+            {
+                "Shots off target": "0"
+            },
+            {
+                "Shots blocked": "0"
+            },
+            {
+                "Dribble attempts (succ.)": "2 (0)"
+            },
+            {
+                "Ground duels (won)": "7 (3)"
+            },
+            {
+                "Aerial duels (won)": "0 (0)"
+            },
+            {
+                "Possession lost": "8"
+            },
+            {
+                "Fouls": "0"
+            },
+            {
+                "Was fouled": "1"
+            },
+            {
+                "Clearances": "0"
+            },
+            {
+                "Blocked shots": "0"
+            },
+            {
+                "Interceptions": "0"
+            },
+            {
+                "Tackles": "2"
+            },
+            {
+                "Dribbled past": "0"
+            }
+        ]
+    },
+    "Dimitri Foulquier": {
+        "puntuacion": "6.2",
+        "estadisticas": [
+            {
+                "Minutes played": "17'"
+            },
+            {
+                "Goals": "0"
+            },
+            {
+                "Assists": "0"
+            },
+            {
+                "Clearances": "0"
+            },
+            {
+                "Blocked shots": "0"
+            },
+            {
+                "Interceptions": "0"
+            },
+            {
+                "Tackles": "0"
+            },
+            {
+                "Dribbled past": "0"
+            },
+            {
+                "Ground duels (won)": "4 (1)"
+            },
+            {
+                "Aerial duels (won)": "0 (0)"
+            },
+            {
+                "Possession lost": "4"
+            },
+            {
+                "Fouls": "2"
+            },
+            {
+                "Was fouled": "1"
+            },
+            {
+                "Touches": "6"
+            },
+            {
+                "Acc. passes": "0/1 (0%)"
+            },
+            {
+                "Key passes": "0"
+            },
+            {
+                "Crosses (acc.)": "0 (0)"
+            },
+            {
+                "Long balls (acc.)": "0 (0)"
+            },
+            {
+                "Shots on target": "0"
+            },
+            {
+                "Shots off target": "0"
+            },
+            {
+                "Shots blocked": "0"
+            },
+            {
+                "Dribble attempts (succ.)": "1 (0)"
+            }
+        ]
+    },
+    "Hugo Guillam\u00f3n": {
+        "puntuacion": "6.3",
+        "estadisticas": [
+            {
+                "Minutes played": "16'"
+            },
+            {
+                "Goals": "0"
+            },
+            {
+                "Assists": "0"
+            },
+            {
+                "Clearances": "1"
+            },
+            {
+                "Blocked shots": "0"
+            },
+            {
+                "Interceptions": "0"
+            },
+            {
+                "Tackles": "0"
+            },
+            {
+                "Dribbled past": "0"
+            },
+            {
+                "Ground duels (won)": "1 (0)"
+            },
+            {
+                "Aerial duels (won)": "1 (1)"
+            },
+            {
+                "Possession lost": "2"
+            },
+            {
+                "Fouls": "1"
+            },
+            {
+                "Was fouled": "0"
+            },
+            {
+                "Touches": "4"
+            },
+            {
+                "Acc. passes": "1/3 (33%)"
+            },
+            {
+                "Key passes": "0"
+            },
+            {
+                "Crosses (acc.)": "0 (0)"
+            },
+            {
+                "Long balls (acc.)": "0 (0)"
+            },
+            {
+                "Shots on target": "0"
+            },
+            {
+                "Shots off target": "0"
+            },
+            {
+                "Shots blocked": "0"
+            },
+            {
+                "Dribble attempts (succ.)": "0 (0)"
+            }
+        ]
+    },
+    "Roman Yaremchuk": {
+        "puntuacion": "6.6",
+        "estadisticas": [
+            {
+                "Minutes played": "12'"
+            },
+            {
+                "Goals": "0"
+            },
+            {
+                "Assists": "0"
+            },
+            {
+                "Shots on target": "0"
+            },
+            {
+                "Shots off target": "0"
+            },
+            {
+                "Shots blocked": "0"
+            },
+            {
+                "Dribble attempts (succ.)": "0 (0)"
+            },
+            {
+                "Touches": "8"
+            },
+            {
+                "Acc. passes": "4/5 (80%)"
+            },
+            {
+                "Key passes": "0"
+            },
+            {
+                "Crosses (acc.)": "1 (0)"
+            },
+            {
+                "Long balls (acc.)": "0 (0)"
+            },
+            {
+                "Ground duels (won)": "1 (1)"
+            },
+            {
+                "Aerial duels (won)": "5 (2)"
+            },
+            {
+                "Possession lost": "3"
+            },
+            {
+                "Fouls": "0"
+            },
+            {
+                "Was fouled": "1"
+            },
+            {
+                "Offsides": "2"
+            },
+            {
+                "Clearances": "0"
+            },
+            {
+                "Blocked shots": "0"
+            },
+            {
+                "Interceptions": "0"
+            },
+            {
+                "Tackles": "0"
+            },
+            {
+                "Dribbled past": "0"
+            }
+        ]
+    },
+    "Jaume Dom\u00e9nech": {
+        "puntuacion": null,
+        "estadisticas": [
+            {
+                "Minutes played": 0
+            }
+        ]
+    },
+    "Cristian Rivero": {
+        "puntuacion": null,
+        "estadisticas": [
+            {
+                "Minutes played": 0
+            }
+        ]
+    },
+    "C\u00e9sar T\u00e1rrega": {
+        "puntuacion": null,
+        "estadisticas": [
+            {
+                "Minutes played": 0
+            }
+        ]
+    },
+    "Yarek Gasiorowski": {
+        "puntuacion": null,
+        "estadisticas": [
+            {
+                "Minutes played": 0
+            }
+        ]
+    },
+    "Pablo Goz\u00e1lbez": {
+        "puntuacion": null,
+        "estadisticas": [
+            {
+                "Minutes played": 0
+            }
+        ]
+    },
+    "Yuri Berchiche\nDoubtful": {
+        "puntuacion": null,
+        "estadisticas": [
+            {
+                "Ausencia": "Suspension"
+            }
+        ]
+    },
+    "Ander Herrera\nOut": {
+        "puntuacion": null,
+        "estadisticas": [
+            {
+                "Ausencia": "Suspension"
+            }
+        ]
+    },
+    "Andr\u00e9 Almeida\nOut": {
+        "puntuacion": null,
+        "estadisticas": [
+            {
+                "Ausencia": "Suspension"
+            }
+        ]
+    },
+    "Jes\u00fas V\u00e1zquez\nOut": {
+        "puntuacion": null,
+        "estadisticas": [
+            {
+                "Ausencia": "Suspension"
+            }
+        ]
+    },
+    "Alberto Mari\nOut": {
+        "puntuacion": null,
+        "estadisticas": [
+            {
+                "Ausencia": "Suspension"
+            }
+        ]
+    },
+    "Malcom Ares": {
+        "puntuacion": null,
+        "estadisticas": [
+            {
+                "Minutes played": 0
+            }
+        ]
+    },
+    "Hugo Gonz\u00e1lez": {
+        "puntuacion": null,
+        "estadisticas": [
+            {
+                "Minutes played": 0
+            }
+        ]
+    },
+    "Yeray \u00c1lvarez\nOut": {
+        "puntuacion": null,
+        "estadisticas": [
+            {
+                "Ausencia": "Suspension"
+            }
+        ]
+    },
+    "Mouctar Diakhaby\nOut": {
+        "puntuacion": null,
+        "estadisticas": [
+            {
+                "Ausencia": "Suspension"
+            }
+        ]
+    }
+}
