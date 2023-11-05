@@ -32,10 +32,69 @@
         }
     },
     "11369354": {
-        "message": "You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/apidojo/api/sofascore"
+        "bestHomeTeamPlayer": {
+            "value": "9.4",
+            "label": "rating",
+            "player": {
+                "name": "Federico Valverde",
+                "firstName": "",
+                "lastName": "",
+                "slug": "federico-valverde",
+                "shortName": "F. Valverde",
+                "position": "M",
+                "userCount": 45738,
+                "id": 831808,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 901065600
+            }
+        },
+        "bestAwayTeamPlayer": {
+            "value": "7.4",
+            "label": "rating",
+            "player": {
+                "name": "Sergio Herrera",
+                "slug": "sergio-herrera",
+                "shortName": "S. Herrera",
+                "position": "G",
+                "userCount": 352,
+                "id": 294377,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 736646400
+            }
+        }
     },
     "11369353": {
-        "message": "You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/apidojo/api/sofascore"
+        "bestHomeTeamPlayer": {
+            "value": "8.3",
+            "label": "rating",
+            "player": {
+                "name": "Andr\u00e9 Ferreira",
+                "firstName": "",
+                "lastName": "",
+                "slug": "andre-ferreira",
+                "shortName": "A. Ferreira",
+                "position": "G",
+                "userCount": 241,
+                "id": 788197,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 833328000
+            }
+        },
+        "bestAwayTeamPlayer": {
+            "value": "7.7",
+            "label": "rating",
+            "player": {
+                "name": "Lamine Yamal",
+                "firstName": "Lamine Yamal",
+                "slug": "lamine-yamal",
+                "shortName": "Lamine Yamal",
+                "position": "F",
+                "userCount": 36756,
+                "id": 1402912,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 1184284800
+            }
+        }
     },
     "11369359": {
         "bestHomeTeamPlayer": {
@@ -166,7 +225,34 @@
         }
     },
     "11369350": {
-        "message": "You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/apidojo/api/sofascore"
+        "bestHomeTeamPlayer": {
+            "value": "7.6",
+            "label": "rating",
+            "player": {
+                "name": "Vedat Muriqi",
+                "slug": "vedat-muriqi",
+                "shortName": "V. Muriqi",
+                "position": "F",
+                "userCount": 3640,
+                "id": 310874,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 767145600
+            }
+        },
+        "bestAwayTeamPlayer": {
+            "value": "7.9",
+            "label": "rating",
+            "player": {
+                "name": "Pepelu",
+                "slug": "pepelu",
+                "shortName": "Pepelu",
+                "position": "M",
+                "userCount": 687,
+                "id": 826948,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 902793600
+            }
+        }
     },
     "11369364": {
         "bestHomeTeamPlayer": {
@@ -237,63 +323,617 @@
         }
     },
     "11369356": {
-        "message": "You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/apidojo/api/sofascore"
+        "bestHomeTeamPlayer": {
+            "value": "7.3",
+            "label": "rating",
+            "player": {
+                "name": "Gerard Moreno",
+                "firstName": "",
+                "lastName": "",
+                "slug": "gerard-moreno",
+                "shortName": "G. Moreno",
+                "position": "F",
+                "userCount": 4032,
+                "id": 146866,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 702604800
+            }
+        },
+        "bestAwayTeamPlayer": {
+            "value": "7.9",
+            "label": "rating",
+            "player": {
+                "name": "Sa\u00fal Coco",
+                "firstName": "",
+                "lastName": "",
+                "slug": "saul-coco",
+                "shortName": "S. Coco",
+                "position": "D",
+                "userCount": 208,
+                "id": 964466,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 918518400
+            }
+        }
     },
     "11369366": {
-        "message": "You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/apidojo/api/sofascore"
+        "bestHomeTeamPlayer": {
+            "value": "8.0",
+            "label": "rating",
+            "player": {
+                "name": "Filip J\u00f6rgensen",
+                "firstName": "",
+                "lastName": "",
+                "slug": "filip-jorgensen",
+                "shortName": "F. J\u00f6rgensen",
+                "position": "G",
+                "userCount": 650,
+                "id": 962053,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 1018915200
+            }
+        },
+        "bestAwayTeamPlayer": {
+            "value": "7.7",
+            "label": "rating",
+            "player": {
+                "name": "Luis Rioja",
+                "slug": "luis-rioja",
+                "shortName": "L. Rioja",
+                "position": "M",
+                "userCount": 496,
+                "id": 900433,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 750729600
+            }
+        }
     },
     "11369363": {
-        "message": "You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/apidojo/api/sofascore"
+        "bestHomeTeamPlayer": {
+            "value": "8.6",
+            "label": "rating",
+            "player": {
+                "name": "\u00c1lex Remiro",
+                "slug": "alex-remiro",
+                "shortName": "\u00c1. Remiro",
+                "position": "G",
+                "userCount": 753,
+                "id": 791773,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 796003200
+            }
+        },
+        "bestAwayTeamPlayer": {
+            "value": "7.7",
+            "label": "rating",
+            "player": {
+                "name": "Predrag Rajkovi\u0107",
+                "slug": "predrag-rajkovic",
+                "shortName": "P. Rajkovi\u0107",
+                "position": "G",
+                "userCount": 1247,
+                "id": 188107,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 815097600
+            }
+        }
     },
     "11605831": {
-        "message": "You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/apidojo/api/sofascore"
+        "bestHomeTeamPlayer": {
+            "value": "7.1",
+            "label": "rating",
+            "player": {
+                "name": "Jo\u00e3o Neves",
+                "slug": "joao-neves",
+                "shortName": "J. Neves",
+                "position": "M",
+                "userCount": 2185,
+                "id": 1190933,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 1096243200
+            }
+        },
+        "bestAwayTeamPlayer": {
+            "value": "8.1",
+            "label": "rating",
+            "player": {
+                "name": "Brais M\u00e9ndez",
+                "slug": "brais-mendez",
+                "shortName": "B. M\u00e9ndez",
+                "position": "M",
+                "userCount": 1743,
+                "id": 845385,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 852595200
+            }
+        }
     },
     "11369361": {
-        "message": "You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/apidojo/api/sofascore"
+        "bestHomeTeamPlayer": {
+            "value": "7.6",
+            "label": "rating",
+            "player": {
+                "name": "Borja Mayoral",
+                "firstName": "",
+                "lastName": "",
+                "slug": "borja-mayoral",
+                "shortName": "B. Mayoral",
+                "position": "F",
+                "userCount": 2283,
+                "id": 604954,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 860198400
+            }
+        },
+        "bestAwayTeamPlayer": {
+            "value": "7.8",
+            "label": "rating",
+            "player": {
+                "name": "Isco",
+                "slug": "isco",
+                "shortName": "Isco",
+                "position": "M",
+                "userCount": 13960,
+                "id": 103417,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 703814400
+            }
+        }
     },
     "11608617": {
-        "message": "You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/apidojo/api/sofascore"
+        "bestHomeTeamPlayer": {
+            "value": "7.4",
+            "label": "rating",
+            "player": {
+                "name": "J\u00falius Sz\u0151ke",
+                "firstName": "",
+                "lastName": "",
+                "slug": "julius-szoke",
+                "shortName": "J. Sz\u0151ke",
+                "position": "M",
+                "userCount": 47,
+                "id": 237412,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 807235200
+            }
+        },
+        "bestAwayTeamPlayer": {
+            "value": "8.2",
+            "label": "rating",
+            "player": {
+                "name": "Germ\u00e1n Pezzella",
+                "slug": "german-pezzella",
+                "shortName": "G. Pezzella",
+                "position": "D",
+                "userCount": 3242,
+                "id": 158241,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 677980800
+            }
+        }
     },
     "11369344": {
-        "message": "You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/apidojo/api/sofascore"
+        "bestHomeTeamPlayer": {
+            "value": "7.7",
+            "label": "rating",
+            "player": {
+                "name": "Takefusa Kubo",
+                "firstName": "",
+                "lastName": "",
+                "slug": "kubo-takefusa",
+                "shortName": "T. Kubo",
+                "position": "M",
+                "userCount": 15053,
+                "id": 880218,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 991612800
+            }
+        },
+        "bestAwayTeamPlayer": {
+            "value": "7.5",
+            "label": "rating",
+            "player": {
+                "name": "\u00c1lex Berenguer",
+                "slug": "alex-berenguer",
+                "shortName": "\u00c1. Berenguer",
+                "position": "M",
+                "userCount": 746,
+                "id": 592012,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 804816000
+            }
+        }
     },
     "11369352": {
-        "message": "You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/apidojo/api/sofascore"
+        "bestHomeTeamPlayer": {
+            "value": "8.4",
+            "label": "rating",
+            "player": {
+                "name": "Nico Williams",
+                "firstName": "",
+                "lastName": "",
+                "slug": "nico-williams",
+                "shortName": "N. Williams",
+                "position": "M",
+                "userCount": 4777,
+                "id": 1085400,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 1026432000
+            }
+        },
+        "bestAwayTeamPlayer": {
+            "value": "7.7",
+            "label": "rating",
+            "player": {
+                "name": "Dion Lopy",
+                "slug": "dion-lopy",
+                "shortName": "D. Lopy",
+                "position": "M",
+                "userCount": 1197,
+                "id": 982327,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 1012608000
+            }
+        }
     },
     "11369349": {
-        "message": "You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/apidojo/api/sofascore"
+        "bestHomeTeamPlayer": {
+            "value": "8.3",
+            "label": "rating",
+            "player": {
+                "name": "J\u00f8rgen Strand Larsen",
+                "firstName": "",
+                "lastName": "",
+                "slug": "jorgen-strand-larsen",
+                "shortName": "J. S. Larsen",
+                "position": "F",
+                "userCount": 1427,
+                "id": 876599,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 949795200
+            }
+        },
+        "bestAwayTeamPlayer": {
+            "value": "8.3",
+            "label": "rating",
+            "player": {
+                "name": "David Soria",
+                "slug": "david-soria",
+                "shortName": "D. Soria",
+                "position": "G",
+                "userCount": 514,
+                "id": 604258,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 733881600
+            }
+        }
     },
     "11369360": {
-        "message": "You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/apidojo/api/sofascore"
+        "bestHomeTeamPlayer": {
+            "value": "7.5",
+            "label": "rating",
+            "player": {
+                "name": "Iago Aspas",
+                "slug": "iago-aspas",
+                "shortName": "I. Aspas",
+                "position": "F",
+                "userCount": 4702,
+                "id": 19356,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 554774400
+            }
+        },
+        "bestAwayTeamPlayer": {
+            "value": "9.3",
+            "label": "rating",
+            "player": {
+                "name": "Antoine Griezmann",
+                "firstName": "",
+                "lastName": "",
+                "slug": "antoine-griezmann",
+                "shortName": "A. Griezmann",
+                "position": "F",
+                "userCount": 65306,
+                "id": 85859,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 669513600
+            }
+        }
     },
     "11369358": {
-        "message": "You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/apidojo/api/sofascore"
+        "bestHomeTeamPlayer": {
+            "value": "9.0",
+            "label": "rating",
+            "player": {
+                "name": "Aleix Garc\u00eda",
+                "firstName": "",
+                "lastName": "",
+                "slug": "aleix-garcia",
+                "shortName": "A. Garc\u00eda",
+                "position": "M",
+                "userCount": 1955,
+                "id": 796047,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 867456000
+            }
+        },
+        "bestAwayTeamPlayer": {
+            "value": "8.5",
+            "label": "rating",
+            "player": {
+                "name": "L\u00e9o Baptist\u00e3o",
+                "firstName": "",
+                "lastName": "",
+                "slug": "leo-baptistao",
+                "shortName": "L\u00e9o Baptist\u00e3o",
+                "position": "F",
+                "userCount": 695,
+                "id": 252857,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 714787200
+            }
+        }
     },
     "11369341": {
-        "message": "You have exceeded the rate limit per second for your plan, BASIC, by the API provider"
+        "bestHomeTeamPlayer": {
+            "value": "7.8",
+            "label": "rating",
+            "player": {
+                "name": "Gast\u00f3n \u00c1lvarez",
+                "slug": "gaston-alvarez",
+                "shortName": "G. \u00c1lvarez",
+                "position": "D",
+                "userCount": 353,
+                "id": 980578,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 953856000
+            }
+        },
+        "bestAwayTeamPlayer": {
+            "value": "9.6",
+            "label": "rating",
+            "player": {
+                "name": "Filip J\u00f6rgensen",
+                "firstName": "",
+                "lastName": "",
+                "slug": "filip-jorgensen",
+                "shortName": "F. J\u00f6rgensen",
+                "position": "G",
+                "userCount": 650,
+                "id": 962053,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 1018915200
+            }
+        }
     },
     "11369348": {
-        "message": "You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/apidojo/api/sofascore"
+        "bestHomeTeamPlayer": {
+            "value": "7.7",
+            "label": "rating",
+            "player": {
+                "name": "Jerem\u00edas Ledesma",
+                "slug": "jeremias-ledesma",
+                "shortName": "J. Ledesma",
+                "position": "G",
+                "userCount": 1298,
+                "id": 341097,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 729561600
+            }
+        },
+        "bestAwayTeamPlayer": {
+            "value": "8.3",
+            "label": "rating",
+            "player": {
+                "name": "Aleix Garc\u00eda",
+                "firstName": "",
+                "lastName": "",
+                "slug": "aleix-garcia",
+                "shortName": "A. Garc\u00eda",
+                "position": "M",
+                "userCount": 1955,
+                "id": 796047,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 867456000
+            }
+        }
     },
     "11369335": {
-        "message": "You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/apidojo/api/sofascore"
+        "bestHomeTeamPlayer": {
+            "value": "10",
+            "label": "rating",
+            "player": {
+                "name": "Luis Javier Su\u00e1rez",
+                "slug": "luis-javier-suarez",
+                "shortName": "L. J. Su\u00e1rez\u00a0",
+                "position": "F",
+                "userCount": 2155,
+                "id": 914213,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 881020800
+            }
+        },
+        "bestAwayTeamPlayer": {
+            "value": "8.0",
+            "label": "rating",
+            "player": {
+                "name": "Bryan Zaragoza",
+                "firstName": "",
+                "lastName": "",
+                "slug": "bryan-zaragoza",
+                "shortName": "B. Zaragoza",
+                "position": "M",
+                "userCount": 1254,
+                "id": 1084730,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 999993600
+            }
+        }
     },
     "11369336": {
-        "message": "You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/apidojo/api/sofascore"
+        "bestHomeTeamPlayer": {
+            "value": "9.0",
+            "label": "rating",
+            "player": {
+                "name": "\u00c1ngel Correa",
+                "firstName": "",
+                "lastName": "",
+                "slug": "angel-correa",
+                "shortName": "\u00c1. Correa",
+                "position": "F",
+                "userCount": 8106,
+                "id": 316152,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 794707200
+            }
+        },
+        "bestAwayTeamPlayer": {
+            "value": "7.3",
+            "label": "rating",
+            "player": {
+                "name": "Chris Ramos",
+                "slug": "chris-ramos",
+                "shortName": "C. Ramos",
+                "position": "F",
+                "userCount": 333,
+                "id": 914819,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 853545600
+            }
+        }
     },
     "11369351": {
-        "message": "You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/apidojo/api/sofascore"
+        "bestHomeTeamPlayer": {
+            "value": "7.4",
+            "label": "rating",
+            "player": {
+                "name": "Ianis Hagi",
+                "slug": "ianis-hagi",
+                "shortName": "I. Hagi",
+                "position": "M",
+                "userCount": 3469,
+                "id": 756344,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 909014400
+            }
+        },
+        "bestAwayTeamPlayer": {
+            "value": "7.5",
+            "label": "rating",
+            "player": {
+                "name": "Ayoze P\u00e9rez",
+                "slug": "ayoze-perez",
+                "shortName": "A. P\u00e9rez",
+                "position": "M",
+                "userCount": 1254,
+                "id": 345195,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 743385600
+            }
+        }
     },
     "11369346": {
-        "message": "You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/apidojo/api/sofascore"
+        "bestHomeTeamPlayer": {
+            "value": "7.4",
+            "label": "rating",
+            "player": {
+                "name": "\u00c1lvaro Garc\u00eda",
+                "firstName": "",
+                "lastName": "",
+                "slug": "alvaro-garcia",
+                "shortName": "\u00c1. Garc\u00eda",
+                "position": "M",
+                "userCount": 643,
+                "id": 345111,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 720144000
+            }
+        },
+        "bestAwayTeamPlayer": {
+            "value": "7.8",
+            "label": "rating",
+            "player": {
+                "name": "Vedat Muriqi",
+                "slug": "vedat-muriqi",
+                "shortName": "V. Muriqi",
+                "position": "F",
+                "userCount": 3640,
+                "id": 310874,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 767145600
+            }
+        }
     },
     "11369355": {
-        "message": "You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/apidojo/api/sofascore"
+        "bestHomeTeamPlayer": {
+            "value": "8.1",
+            "label": "rating",
+            "player": {
+                "name": "Juanlu S\u00e1nchez",
+                "firstName": "",
+                "lastName": "",
+                "slug": "juanlu-sanchez",
+                "shortName": "J. S\u00e1nchez",
+                "position": "M",
+                "userCount": 372,
+                "id": 1010655,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 1060905600
+            }
+        },
+        "bestAwayTeamPlayer": {
+            "value": "7.4",
+            "label": "rating",
+            "player": {
+                "name": "\u00d3scar Valent\u00edn",
+                "firstName": "",
+                "lastName": "",
+                "slug": "oscar-valentin",
+                "shortName": "\u00d3. Valent\u00edn",
+                "position": "M",
+                "userCount": 321,
+                "id": 900008,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 777340800
+            }
+        }
     },
     "11733377": {
-        "message": "You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/apidojo/api/sofascore"
+        "error": {
+            "code": 404,
+            "message": "Not Found"
+        }
     },
     "11369357": {
-        "message": "You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/apidojo/api/sofascore"
+        "bestHomeTeamPlayer": {
+            "value": "7.6",
+            "label": "rating",
+            "player": {
+                "name": "Peji\u00f1o",
+                "slug": "pejino",
+                "shortName": "Peji\u00f1o",
+                "position": "M",
+                "userCount": 98,
+                "id": 925220,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 838598400
+            }
+        },
+        "bestAwayTeamPlayer": {
+            "value": "8.8",
+            "label": "rating",
+            "player": {
+                "name": "Stole Dimitrievski",
+                "firstName": "",
+                "lastName": "",
+                "slug": "stole-dimitrievski",
+                "shortName": "S. Dimitrievski",
+                "position": "G",
+                "userCount": 759,
+                "id": 97951,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 756777600
+            }
+        }
     }
 }
