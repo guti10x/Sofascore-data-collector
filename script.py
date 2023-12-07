@@ -112,8 +112,8 @@ class SimpleWindow(QDialog):
         scrape_button = QPushButton("Scrapear")
 
         # Conectar la señal clicked del botón a la función iniciar_scrapear_thread e iniciar barra progreso
-        #scrape_button.clicked.connect(self.iniciar_scrapear_thread)
-        #scrape_button.clicked.connect(self.start_progress)
+        scrape_button.clicked.connect(self.iniciar_scrapear_thread)
+        scrape_button.clicked.connect(self.start_progress)
 
         # Alineación 
         layout.addWidget(scrape_button, 6, 0)
@@ -168,6 +168,69 @@ class SimpleWindow(QDialog):
         ruta_output = self.text_input.text()
         if ruta_output!="":
             self.progress_bar.setValue(0)
+
+    def iniciar_scrapear_thread(self):  
+        # Crear un hilo y ejecutar la función en segundo plano
+        thread = threading.Thread(target=self.scrapear_funcion)
+        thread.start()
+
+    def invocar_actualizacion(self, nuevo_valor):
+        QMetaObject.invokeMethod(self.progress_bar, "setValue", Qt.ConnectionType.QueuedConnection, Q_ARG(int, nuevo_valor))
+        
+    def scrapear_funcion(self):
+        self.output_textedit.append("Starting scraper...")
+
+        # GESTIÓN DEL INPUT DEL USUARIO
+        ruta_output = self.text_input.text()
+
+        # Mostrar el valor en el QTextEdit
+        self.output_textedit.append(f"Equipo seleccionado: {self.team_combobox.currentText()}")
+        self.output_textedit.append(f"Jornada seleccionada: {str(self.number_input.value())}")
+        self.output_textedit.append(f"Ruta para la salida del scraper selecionada: {ruta_output}")
+        self.output_textedit.append(f"________________________________________________________________________________________")
+
+        if ruta_output=="":
+            output_textedit = self.output_textedit
+            color_rojo = QColor(255, 0, 0)  # Valores RGB para rojo
+            formato_rojo = QTextCharFormat()
+            formato_rojo.setForeground(color_rojo)
+            output_textedit.mergeCurrentCharFormat(formato_rojo)
+            output_textedit.insertPlainText("\n¡La jornada no está inicializada!, Configúrala antes de empezar a scrapear")
+            formato_negro = QTextCharFormat()
+            formato_negro.setForeground(QColor(0, 0, 0))
+            output_textedit.mergeCurrentCharFormat(formato_negro)
+            self.output_textedit.append(f"________________________________________________________________________________________")
+            return
+        
+        ############################################  eliminar excell a scrapear si ya existe !!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+        ##############################################################################################################################################################
+        # FASE 1: Obtener la url de la pagina web de Sofaescore de todas los partidos de LaLiga                                                                      #
+        ##############################################################################################################################################################
+
+        #######################################################################################################################################################
+        #  PARTE 1 : Mediante una request a la API de Sofaescore obtenemos el id de todos los equipos de LaLiga para posteriores cnsultas                     #
+        #######################################################################################################################################################
+
+        url = "https://sofascore.p.rapidapi.com/teams/search"
+
+        selected_team = self.team_combobox.currentText()
+        self.output_textedit.append(f"Equipo seleccionado: {selected_team}")
+
+        id_equipo = None
+        valor_round = None
+        slugJson = None
+
+        self.output_textedit.append(f"________________________________________________________________________________________")
+        self.output_textedit.append("Obteniendo id del equipo de LaLiga...")
+
+        response = requests.get(url, headers=headers, params={"name": selected_team})
+        data = response.json()
+        if data['teams']:
+            equipo_id = data['teams'][0]['id']
+            id_equipo=equipo_id
+            self.output_textedit.append(f"GET ID: {selected_team}: {equipo_id}")
+                
+        self.output_textedit.append(f"________________________________________________________________________________________")
 
 if __name__ == '__main__':
     import sys
