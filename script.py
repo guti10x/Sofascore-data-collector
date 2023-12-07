@@ -264,7 +264,24 @@ class SimpleWindow(QDialog):
         nombre_carpeta_jornada = "jornada_" + str(valor_round)
         ruta_jornada = os.path.join("performance_jugadores_por_partidos", nombre_carpeta_jornada,"json")
         ##########################################3!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1revisar nombre output
-        self.output_textedit.append(f"________________________________________________________________________________________")
+
+        #######################################################################################################################################################       
+        #  PARTE 3 : Mediante los datos obtenidos de la API cosntruimos la url de cada patido de todos los equipos de LaLiga                                  #
+        #######################################################################################################################################################
+        time.sleep(1)
+        #Obtener componenets de la url   
+        id = ulimo_partido.get('id')
+        slug = ulimo_partido.get('slug')
+        customId = ulimo_partido.get('customId')
+
+        base_url = "https://www.sofascore.com/{}/{}#{}"
+
+        self.output_textedit.append(f"________________________________________________________________________________________")  
+        self.output_textedit.append("Generando urls del último partido de cada equipo...")
+
+        #Fusionar elementos de la url
+        url = base_url.format(id, slug, customId)
+        self.output_textedit.append(url)
 
 if __name__ == '__main__':
     import sys
