@@ -178,7 +178,7 @@ class SimpleWindow(QDialog):
         QMetaObject.invokeMethod(self.progress_bar, "setValue", Qt.ConnectionType.QueuedConnection, Q_ARG(int, nuevo_valor))
        
     def scrapear_funcion(self):
-        self.output_textedit.append("Starting scraper...")
+        self.output_textedit.append("Conecting to API...")
 
         # GESTIÓN DEL INPUT DEL USUARIO
         selected_team = self.team_combobox.currentText()
@@ -280,8 +280,51 @@ class SimpleWindow(QDialog):
         self.output_textedit.append("Generando urls del último partido de cada equipo...")
 
         #Fusionar elementos de la url
-        url = base_url.format(id, slug, customId)
+        url = base_url.format(id,customId,slug)
         self.output_textedit.append(url)
+
+        ##############################################################################################################################################################
+        # FASE 2: "Acceder y hacer scraping de todos las urls de todos los partidos de LaLiga                                                                        #
+        ##############################################################################################################################################################
+
+        #######################################################################################################################################################
+        #  PARTE 1 : obtener el performance de los 22 jugadores titulares del partido                                                                         # 
+        #    -abre la web                                                                                                                                     #
+        #    -acepta las cookies                                                                                                                              #
+        #    -hace click sobre de cada jugador para que emerja la tarjeta con los datos del performance del partido asociados a cada jugador y los extrae)    #
+        self.output_textedit.append("Starting scraper...")
+
+        self.driver = webdriver.Chrome()
+
+        # Maximizar la ventana del navegador
+        self.driver.maximize_window()
+        
+        # Navega a la página web que deseas hacer scraping
+        self.driver.get(url)
+
+        # Espera a que se cargue la página
+        self.driver.implicitly_wait(20)
+
+        # Encuentra el botón de "Consentir" 
+        button = self.driver.find_element(By.XPATH, '//button[@aria-label="Consentir"]')
+        # Haz clic en el botón de "Consentir" 
+        button.click()
+        try:
+            # Encuentra el botón de "Ask me later" 
+            button = self.driver.find_element(By.XPATH, '//*[@id="__next"]/div[3]/div[2]/button')
+            # Haz clic en el botón de "Consentir" 
+            button.click()
+        except:
+            pass
+        
+        # Encuentra el nombre del partido" 
+        local = self.driver.find_element(By.XPATH, '//*[@id="__next"]/main/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div/div[1]/div/a/div/div/bdi')
+        visitante = self.driver.find_element(By.XPATH, '//*[@id="__next"]/main/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div/div[3]/div/a/div/div/bdi')
+        # Concatenar los nombres para formar slugJson
+        slugJsonConcatenado = f"{local.text}_{visitante.text}"
+        slugJson = slugJsonConcatenado.replace(" ", "_")
+        self.output_textedit.append(slugJson)
+        self.driver.quit()
 
 if __name__ == '__main__':
     import sys
