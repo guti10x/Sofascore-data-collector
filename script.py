@@ -323,8 +323,53 @@ class SimpleWindow(QDialog):
         # Concatenar los nombres para formar slugJson
         slugJsonConcatenado = f"{local.text}_{visitante.text}"
         slugJson = slugJsonConcatenado.replace(" ", "_")
-        self.output_textedit.append(slugJson)
+        self.output_textedit.append(f"Scraping {slugJson}...")
         self.driver.quit()
+
+        indexTitulares=0
+        while indexTitulares<=22:
+            try:
+                self.driver = webdriver.Chrome()
+
+                # Maximizar la ventana del navegador
+                self.driver.maximize_window()
+
+                # Navega a la página web que deseas hacer scraping
+                self.driver.get(url)
+
+                # Espera a que se cargue la página
+                self.driver.implicitly_wait(45)
+
+                # Encuentra el botón de "Consentir" 
+                button = self.driver.find_element(By.XPATH, '//button[@aria-label="Consentir"]')
+                # Haz clic en el botón de "Consentir" 
+                button.click()
+
+                try:
+                    # Encuentra el botón de "Ask me later" 
+                    button = self.driver.find_element(By.XPATH, '//*[@id="__next"]/div[3]/div[2]/button')
+                    # Haz clic en el botón de "Consentir" 
+                    button.click()
+                except:
+                    pass
+
+                time.sleep(20)
+                
+                # Encuentra todos los elementos <a> con la clase 'sc-3937c22d-0 jrbLdB'
+                divJugadores = self.driver.find_elements(By.XPATH, '//a[@class="sc-3937c22d-0 jrbLdB"]')
+                
+                numTitulares=len(divJugadores)
+                print(indexTitulares+1,"/",numTitulares)
+                divJugadores[indexTitulares].click()
+                time.sleep(5)
+                #obtener_informacion_jugador()
+                indexTitulares+=1
+                self.driver.quit()
+            except:
+                # Reducir el nivel de zoom 
+                zoom_out_script = "document.body.style.zoom='60%';"
+                self.driver.execute_script(zoom_out_script)
+        
 
 if __name__ == '__main__':
     import sys
