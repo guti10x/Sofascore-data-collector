@@ -176,7 +176,104 @@ class SimpleWindow(QDialog):
 
     def invocar_actualizacion(self, nuevo_valor):
         QMetaObject.invokeMethod(self.progress_bar, "setValue", Qt.ConnectionType.QueuedConnection, Q_ARG(int, nuevo_valor))
-       
+
+    def obtener_informacion_jugador(self):
+
+        # Obtiene el contenido HTML de la página
+        pagina_html = self.driver.page_source
+        #print(pagina_html)
+
+        # Utiliza BeautifulSoup para analizar el HTML
+        soup = BeautifulSoup(pagina_html, 'html.parser')
+
+        try:        
+            nombre= self.driver.find_element(By.XPATH,'//*[@id="__next"]/main/div[3]/div/div/div/div[1]/div/div[1]/a/div')
+            self.output_textedit.append("_______________________________")
+            self.output_textedit.append(nombre.text)
+            
+            try:
+                puntuacion= self.driver.find_element(By.XPATH,'//*[@id="__next"]/main/div[3]/div/div/div/div[1]/div/div[2]/div/span')
+                self.output_textedit.append(puntuacion.text)
+
+                self.output_textedit.append("_______________________________")
+
+                # DEVOLVER TODOS LOS PARÁMETROS DE RENDIMIENTO DEL JUGADOR: encontrar todos los div con la clase "sc-fqkvVR sc-dcJsrY litZes eFJwJL"
+                entradas = []
+                goal_elements = soup.find_all('div', class_='sc-fqkvVR sc-dcJsrY litZes eFJwJL')
+                for element in goal_elements:
+                    
+                    # Encuentra el div con la clase "sc-jEACwC hFGVAX" y el span con la clase "sc-jEACwC jnyhQn" dentro de este div
+                    div_goal = element.find('div', class_='sc-jEACwC hFGVAX')
+                    span_goal = element.find('span', class_='sc-jEACwC jnyhQn')
+                    if div_goal and span_goal:
+                        self.output_textedit.append(div_goal.text)
+                        self.output_textedit.append(span_goal.text)
+
+                        estadisticas = {}
+                        clave = div_goal.text
+                        valor = span_goal.text
+                        estadisticas[clave] = valor
+
+                        entrada = {
+                            clave: valor
+                        }
+
+                        # Agrega la entrada JSON a la lista
+                        entradas.append(entrada)
+                        
+                    nombreJson=nombre.text
+                    puntuaciónJson=puntuacion.text
+            
+                    # Crear el diccionario para el jugador
+                    JsonJugador = {
+                        nombreJson: {
+                            "puntuacion": puntuaciónJson,
+                            "estadisticas": entradas
+                        }
+                    }
+                    
+                    #performance_to_json(JsonJugador)
+
+            except NoSuchElementException as e:
+                self.output_textedit.append("Sin jugar")
+                self.output_textedit.append("_______________________________")
+                
+                entradas = []
+                estadisticas = {}
+                clave = "Minutes played"
+                valor = 0
+                estadisticas[clave] = valor
+
+                entrada = {
+                    clave: valor
+                }
+
+                # Agrega la entrada JSON a la lista
+                entradas.append(entrada)
+                
+                nombreJson=nombre.text
+                puntuaciónJson=None
+            
+                # Crear el diccionario para el jugador
+                JsonJugador = {
+                        nombreJson: {
+                            "puntuacion": puntuaciónJson,
+                            "estadisticas": entradas
+                        }
+                }
+                
+                #performance_to_json(JsonJugador)
+                
+                return
+
+        except NoSuchElementException as e:
+            try:
+                manager= self.driver.find_element(By.XPATH,'//*[@id="__next"]/main/div[2]/div/div/div[1]/div[1]/div/div[2]/div[2]/div/div/span')
+                self.output_textedit.append("Entrenador")
+            except:
+                self.output_textedit.append("No convocado")
+        self.output_textedit.append("_______________________________")
+
     def scrapear_funcion(self):
         self.output_textedit.append("Conecting to API...")
 
@@ -292,6 +389,8 @@ class SimpleWindow(QDialog):
         #    -abre la web                                                                                                                                     #
         #    -acepta las cookies                                                                                                                              #
         #    -hace click sobre de cada jugador para que emerja la tarjeta con los datos del performance del partido asociados a cada jugador y los extrae)    #
+        #######################################################################################################################################################
+        self.output_textedit.append(f"________________________________________________________________________________________")  
         self.output_textedit.append("Starting scraper...")
 
         self.driver = webdriver.Chrome()
@@ -324,51 +423,65 @@ class SimpleWindow(QDialog):
         slugJsonConcatenado = f"{local.text}_{visitante.text}"
         slugJson = slugJsonConcatenado.replace(" ", "_")
         self.output_textedit.append(f"Scraping {slugJson}...")
+
+        # Encuentra todos los elementos 
+        divSuplentes1 = self.driver.find_elements(By.XPATH, '//div[@display="flex" and contains(@class, "sc-fqkvVR sc-dcJsrY bASBgQ kHiXJe")]')
+        divSuplentes2 = self.driver.find_elements(By.XPATH, '//div[@display="flex" and contains(@class, "sc-fqkvVR sc-dcJsrY bphgaj kHiXJe")]')
+        
+        # Crear un nuevo array y combinar los elementos de divSuplentes1 y divSuplentes2
+        divSuplentes = []
+        divSuplentes.extend(divSuplentes1)
+        divSuplentes.extend(divSuplentes2)
+        
+        tamaño_divSuplentes = len(divSuplentes)+22
+        self.output_textedit.append(f"Total de jugadores a scrapear: {tamaño_divSuplentes}")
+        self.progress_bar.setRange(0, tamaño_divSuplentes)
+        self.invocar_actualizacion(self.progress)
+        
         self.driver.quit()
 
         indexTitulares=0
         while indexTitulares<=22:
+            
+            self.driver = webdriver.Chrome()
+
+            # Maximizar la ventana del navegador
+            self.driver.maximize_window()
+
+            # Navega a la página web que deseas hacer scraping
+            self.driver.get(url)
+
+            # Espera a que se cargue la página
+            self.driver.implicitly_wait(45)
+
+            # Encuentra el botón de "Consentir" 
+            button = self.driver.find_element(By.XPATH, '//button[@aria-label="Consentir"]')
+            # Haz clic en el botón de "Consentir" 
+            button.click()
+
             try:
-                self.driver = webdriver.Chrome()
-
-                # Maximizar la ventana del navegador
-                self.driver.maximize_window()
-
-                # Navega a la página web que deseas hacer scraping
-                self.driver.get(url)
-
-                # Espera a que se cargue la página
-                self.driver.implicitly_wait(45)
-
-                # Encuentra el botón de "Consentir" 
-                button = self.driver.find_element(By.XPATH, '//button[@aria-label="Consentir"]')
+                # Encuentra el botón de "Ask me later" 
+                button = self.driver.find_element(By.XPATH, '//*[@id="__next"]/div[3]/div[2]/button')
                 # Haz clic en el botón de "Consentir" 
                 button.click()
-
-                try:
-                    # Encuentra el botón de "Ask me later" 
-                    button = self.driver.find_element(By.XPATH, '//*[@id="__next"]/div[3]/div[2]/button')
-                    # Haz clic en el botón de "Consentir" 
-                    button.click()
-                except:
-                    pass
-
-                time.sleep(20)
-                
-                # Encuentra todos los elementos <a> con la clase 'sc-3937c22d-0 jrbLdB'
-                divJugadores = self.driver.find_elements(By.XPATH, '//a[@class="sc-3937c22d-0 jrbLdB"]')
-                
-                numTitulares=len(divJugadores)
-                print(indexTitulares+1,"/",numTitulares)
-                divJugadores[indexTitulares].click()
-                time.sleep(5)
-                #obtener_informacion_jugador()
-                indexTitulares+=1
-                self.driver.quit()
             except:
-                # Reducir el nivel de zoom 
-                zoom_out_script = "document.body.style.zoom='60%';"
-                self.driver.execute_script(zoom_out_script)
+                pass
+
+            time.sleep(45)
+                        
+            # Encuentra todos los elementos <a> con la clase 'sc-3937c22d-0 jrbLdB'
+            divJugadores = self.driver.find_elements(By.XPATH, '//a[@class="sc-3937c22d-0 jrbLdB"]')
+                
+            numTitulares=len(divJugadores)
+            self.output_textedit.append(f"{indexTitulares+1}/{numTitulares}")
+            divJugadores[indexTitulares].click()
+            time.sleep(5)
+            self.obtener_informacion_jugador()
+            
+            indexTitulares+=1
+            self.progress+=1
+            self.invocar_actualizacion(self.progress)
+            self.driver.quit()
         
 
 if __name__ == '__main__':
